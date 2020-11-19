@@ -13,11 +13,11 @@ SPIDER_MODULES = ['douban.spiders']
 NEWSPIDER_MODULE = 'douban.spiders'
 
 FEED_EXPORT_ENCODING = 'utf-8'
-# USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0"
-DOWNLOADER_MIDDLEWARES = {
-    'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None, # 关闭默认方法
-    'scrapy_fake_useragent.middleware.RandomUserAgentMiddleware': 400, # 开启
-}
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0"
+# DOWNLOADER_MIDDLEWARES = {
+#     'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None, # 关闭默认方法
+#     'scrapy_fake_useragent.middleware.RandomUserAgentMiddleware': 400, # 开启
+# }
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'douban (+http://www.yourdomain.com)'
