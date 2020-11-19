@@ -13,5 +13,5 @@ Python language and data science classes for communication studies students
 
 ## 安装开发环境
 PyCharm  
-Chrome
+Chrome  
 Sublime Text 3.0
