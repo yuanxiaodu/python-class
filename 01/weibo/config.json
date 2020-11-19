@@ -1,0 +1,18 @@
+{
+  "user_id_list": ["5476386628"],
+  "filter": 1,
+  "since_date": "2020-11-17",
+  "write_mode": ["csv"],
+  "original_pic_download": 0,
+  "retweet_pic_download": 0,
+  "original_video_download": 0,
+  "retweet_video_download": 0,
+  "cookie": "your cookie",
+  "mysql_config": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "123456",
+    "charset": "utf8mb4"
+  }
+}
