@@ -5,7 +5,7 @@ Python language and data science classes for communication studies students
 1. Learn python 3 the hard way  
 2. Data science from scratch
 3. [Python](https://www.runoob.com/python3/python3-tutorial.html)
-4. [PowerShell](https://docs.microsoft.com/zh-cn/powershell/)
+4. [PowerShell](https://baike.baidu.com/item/%E5%91%BD%E4%BB%A4%E6%8F%90%E7%A4%BA%E7%AC%A6/998728?fromtitle=%E5%91%BD%E4%BB%A4%E8%A1%8C&fromid=196110)
 
 ## 安装运行环境
 #### Windows
