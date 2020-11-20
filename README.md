@@ -1,9 +1,10 @@
 # python-class
 Python language and data science classes for communication studies students
 
-## 参考书
+## 参考资料
 1. Learn python 3 the hard way  
 2. Data science from scratch
+3. http://www.runoob.com/
 
 ## 安装运行环境
 #### Windows
