@@ -19,5 +19,8 @@ PyCharm
 Chrome  
 Sublime Text 3.0
 
+## 作业
+文件名格式：课节_学号_姓名.ipynb，例：01_0020200001_杨帆.ipynb。每周三交，发到群公告的邮箱里。
+
 ## 分组
 ![image](https://github.com/yuanxiaodu/python-class/blob/main/team.png)
