@@ -18,3 +18,6 @@ Python language and data science classes for communication studies students
 PyCharm  
 Chrome  
 Sublime Text 3.0
+
+## 分组
+![image](https://github.com/yuanxiaodu/python-class/blob/main/team.pdf)
