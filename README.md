@@ -20,4 +20,4 @@ Chrome
 Sublime Text 3.0
 
 ## 分组
-![image](https://github.com/yuanxiaodu/python-class/blob/main/team.pdf)
+![image](https://github.com/yuanxiaodu/python-class/blob/main/team.png)
