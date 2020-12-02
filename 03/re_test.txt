@@ -1,0 +1,2382 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" xml:lang="en" lang="en" id="type-article-structured" class="template-article">
+<head>
+<title>Computer Memory Basics - HowStuffWorks</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="imagetoolbar" content="no" 
+111111111(0376)727791811111111111
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Computer Memory Basics" />
+<meta property="og:url"> content="http://computer.howstuffworks.com/computer-memory.htm" />
+<meta property="og:site_name" content="HowStuffWorks" />
+<meta property="og:description" content="Like our brains, computers use both short-term and long-term memory to store data. But the similarities end there. There are several types of computer memory that are arranged based on both technical and financial concerns." />
+<meta property=
+00000000
+
+    干辰博 210281198812268032
+    刁玻蔚 210204198002066612
+    孙农仲 210282198810085730
+    洪堂诞 210224198111155070
+    蒋宇澄 210211197502074394
+    杭僚敏 210202197511223199
+    莫枝迟 210213198705038737
+    郑效霏 210224199302036917
+    贺剑佛 210203198404174433
+    任思徽 210204197804141819
+    祝材宁 210281197509193977
+    鲁光根 210224198201105958
+    康嘉文 210283199005099778
+    咎彬政 210282197709273732
+    戴津广 210211198109201697
+    路自鸣 210204199002252858
+    席协湃 210203197505077232
+    尹准辰 210204197906196618
+    刁负浪 210204198409125151
+    戚征科 210202198009117934
+    黄开梦 210211199204022077
+    熊豆焕 210201197602192192
+    麻帆新 210204198211238214
+    谈光根 210204198005036398
+
+女性18岁身份证号大全
+以下非现实生活中的身份证号码和真实姓名，仅供研究身份证号大全使用
+
+    孔孤菱 210224198301232989
+    凤夏山 210224198211243369
+    柳念巧 210283197805223205
+    钟尔槐 210203197608239185
+    田新儿 210202199105115087
+    屈雁凡 21020119851209194X
+    单雪卉 210212198010203365
+    马听南 210224199204166726
+    姜夜南 210282198603093180
+    余冷荷 210204198308127262
+    黄雁凡 210281198111028829
+    汪平安 210283199102188748
+    齐灵萱 210281198701024668
+    岑沛柔 210282199302175283
+    林问薇 210283198604237103
+    费绮波 210213198304146884
+    葛白亦 210204197906217503
+    顾映阳 210281198603072906
+    尹新筠 210212199111066843
+    宗冬卉 210224197810099106
+    钟尔容 210203197912281660
+    庞诗翠 210201199101087764
+    罗问薇 210211198006015744
+    费曼云 210212197706131924
+
+
+0"fb:admins" content="100001675325868" />
+<meta property="fb:app_id" content="508246805972410" />
+<meta property="article:publisher" content="http://www.howstuffworks.com" />
+<meta property="article:author" content="http://www.howstuffworks.com/author-tyson.htm" />
+<meta property="og:image" content="http://s.hswstatic.com/gif/static-dynamic-ram-250x150.jpg" />
+<meta property="og:image:width" content="250" />
+<meta property="og:image:height" content="150" />
+--0.0
+00000.0
+5525.225.2225500055..22555.005555.01445551
+22.22.22.22.22.222.02..022.22.2
+2.000000
+-0.22
+-1021.00122
+-11001100.000220
+-8.50.5555-2250.25266
+-002
+-0.0002200
+-0.000021
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@HowStuffWorks" />
+<meta name="twitter:image" content="http://r.hswstatic.com/u_0/w_480/gif/static-dynamic-ram-250x150.jpg" />
+
+<link rel="next" href="http://computer.howstuffworks.com/computer-memory2.htm" />
+<link rel="prev" href="http://computer.howstuffworks.com/computer-memory.htm" />
+002
+<meta name="keywords" content="computer memory functions, computer memory basics, memory types" />
+<meta name="description" content="Computer memory functions cover everything from startup to shutdown. Learn about computer memory functions and computer memory basics." />
+<meta name="robots" content="noodp" />
+<meta name="apple-itunes-app" content="app-id=401986544" />
+<meta name="google-play-app" content="app-id=com.twentythreedivide.hsw" />
+
+<link rel="shortcut icon" type="image/x-icon" href="http://s.hswstatic.com/en-us/skins/hsw/misc/favicon.ico" />
+
+<link rel="alternate" type="application/rss+xml" href="http://syndication.howstuffworks.com/rss/HSW?type=article" title="How Stuff Works Feature Articles" />
+\b(\w+)\b\s+\1\b可以用来匹配重复的单词，像
+go go, 或者kitty kitty。这个表达式首先是一个单词，也就是单词开始处和结束处之间的多于一个的字母或数字(\b(\w+)\b)，这个单词会被捕获到编号为1的分组中，然后是1个或几个空白符(\s+)，最后是分组1中捕获的内容（也就是前面匹配的那个单词）(\1)。
+<link rel="search" type="application/opensearchdescription+xml" href="http://s.hswstatic.com/en-us/default/misc/hsw-search.xml" title="HowStuffWorks" />
+
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="zh-CN" />
+    <title>正则表达式30分钟入门教程</title>
+    <meta name="keywords" content="正则表达式, 文本匹配" />
+    <meta name="description" content="30分钟内让你明白正则表达式是什么，并对它有一些基本的了解，让你可以在自己的程序或网页里使用它。" />
+    <link rel="SHORTCUT ICON" href="../../images/regex.ico" />
+    <style type="text/css">
+        body {
+            font-size: 100%;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        h2 {
+            background-color: #eee;
+            border-bottom: solid 1px gray;
+            border-right: solid 1px gray;
+            clear: both;
+        }
+
+        p {
+            text-indent: 2em;
+            line-height: 140%;
+            margin: 5px 20px;
+        }
+
+        span {
+            margin: 3px;
+        }
+
+        table {
+            margin: auto;
+            border-style: solid;
+            border-width: 1px 1px 0 0;
+            border-color: gray;
+            background: #eee;
+        }
+
+        td, th {
+            border-style: solid;
+            border-width: 0 0 1px 1px;
+            border-color: gray;
+        }
+1000101010010
+        caption {
+            margin: auto;
+            font-weight: bold;
+        }
+
+        dl {
+            margin-left: 20px;
+        }
+
+        dt {
+            font-weight: bold;
+        }
+
+        em {
+            font-style: normal;
+            font-weight: bold;
+        }
+
+        .note, .ad {
+            float: right;
+            width: 300px;
+            padding: 5px;
+            background-color: #eee;
+            border: solid 1px gray;
+            clear: right;
+        }
+
+        #meta {
+            text-align: center;
+        }
+
+        .important {
+            color: orange;
+        }
+
+        .name {
+            font-weight: bold;
+        }
+
+        .code {
+            color: blue;
+        }
+
+        .regex {
+            color: red;
+        }
+
+        .part {
+            color: green;
+        }
+
+        .string {
+            font-style: italic;
+        }
+
+        .desc {
+            text-decoration: underline;
+        }
+
+        #clearButton, #hideButton {
+            text-decoration: none;
+            border: solid 1px gray;
+            background-color: #eee;
+        }
+
+        #top {
+            background: #eee;
+            line-height: 200%;
+        }
+
+            #top a {
+                text-decoration: none;
+                vertical-align: middle;
+                color: Black;
+                display: block;
+                display: inline-block;
+                text-align: center;
+                padding: 3px 15px;
+            }
+
+                #top a:hover {
+                    background: #ccc;
+                }
+    </style>
+    <script type="text/javascript">
+        //<![CDATA[
+        function clearFormats() {
+            var spans = document.getElementsByTagName("span");
+            for (var i = 0; i < spans.length; i++) {
+                spans[i].bakClassName = spans[i].className;
+                spans[i].className = "";
+            }
+            var button = document.getElementById("clearButton");
+            button.innerHTML = "恢复格式";
+            button.onclick = setFormats;
+            return false;
+        }
+        function setFormats() {
+            var spans = document.getElementsByTagName("span");
+            for (var i = 0; i < spans.length; i++) {
+                spans[i].className = spans[i].bakClassName;
+            }
+            var button = document.getElementById("clearButton");
+            button.innerHTML = "清除格式";
+            button.onclick = clearFormats;
+            return false;
+        }
+        function hideNotes() {
+            var notes = document.getElementsByClassName('note');
+            for (var i = 0; i < notes.length; i++) {
+                notes[i].style.display = 'none';
+            }
+            var button = document.getElementById("hideButton");
+            button.innerHTML = "显示边注";
+            button.onclick = showNotes;
+            return false;
+        }
+        function showNotes() {
+            var notes = document.getElementsByClassName('note');
+            for (var i = 0; i < notes.length; i++) {
+                notes[i].style.display = 'block';
+            }
+            var button = document.getElementById("hideButton");
+            button.innerHTML = "隐藏边注";
+            button.onclick = hideNotes;
+            return false;
+        }
+        //]]>
+    </script>
+    <script type="text/javascript">
+        //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-376013-6']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        //]]>
+    </script>
+</head>
+<body>
+    <div id="top">
+        <a href="/">首页</a> | <a href="common.htm">常用正则表达式</a> | <a href="../../tools/regex_tester/index.htm">正则表达式测试工具</a>
+    </div>
+    <h1>正则表达式30分钟入门教程</h1>
+
+    <p id="meta">版本：v2.33 (2013-1-10) 作者：<a href="http://deerchao.net/">deerchao</a>  转载请注明<a href="http://deerchao.net/tutorials/regex/regex.htm">来源</a></p>
+
+    <h2 id="contents">目录</h2>
+    <p id="skipContents" class="note"><a href="#mission" title="转到正文内容">跳过目录</a></p>
+    <ol>
+        <li><a href="#mission">本文目标</a></li>
+
+        <li><a href="#howtouse">如何使用本教程</a></li>
+        <li><a href="#introduction">正则表达式到底是什么东西？</a></li>
+        <li><a href="#getstarted">入门</a></li>
+        <li><a href="#testing">测试正则表达式</a></li>
+        <li><a href="#metacode">元字符</a></li>
+        <li><a href="#escape">字符转义</a></li>
+
+        <li><a href="#repeat">重复</a></li>
+        <li><a href="#charclass">字符类</a></li>
+        <li><a href="#alternative">分枝条件</a></li>
+        <li><a href="#negation">反义</a></li>
+        <li><a href="#grouping">分组</a></li>
+        <li><a href="#backreference">后向引用</a></li>
+
+        <li><a href="#lookaround">零宽断言</a></li>
+        <li><a href="#negativelookaround">负向零宽断言</a></li>
+        <li><a href="#commenting">注释</a></li>
+        <li><a href="#greedyandlazy">贪婪与懒惰</a></li>
+        <li><a href="#regexoptions">处理选项</a></li>
+        <li><a href="#balancedgroup">平衡组/递归匹配</a></li>
+
+        <li><a href="#more">还有些什么东西没提到</a></li>
+        <li><a href="#contact">联系作者</a></li>
+        <li><a href="#resources">网上的资源及本文参考文献</a></li>
+        <li><a href="#updatelog">更新纪录</a></li>
+    </ol>
+
+    <h2 id="mission">本文目标</h2>
+    <p>30分钟内让你明白正则表达式是什么，并对它有一些基本的了解，让你可以在自己的程序或网页里使用它。</p>
+
+    <h2 id="howtouse">如何使用本教程</h2>
+    <p id="giveMe30Minutes" class="important note">最重要的是——请给我<em>30分钟</em>，如果你没有使用正则表达式的经验，请不要试图在30<em>秒</em>内入门——除非你是超人 :)</p>
+    <p>别被下面那些复杂的表达式吓倒，只要跟着我一步一步来，你会发现正则表达式其实并没有想像中的那么困难。当然，如果你看完了这篇教程之后，发现自己明白了很多，却又几乎什么都记不得，那也是很正常的——我认为，没接触过正则表达式的人在看完这篇教程后，能把提到过的语法记住80%以上的可能性为零。这里只是让你明白基本的原理，以后你还需要多练习，多使用，才能熟练掌握正则表达式。</p>
+    <p>除了作为入门教程之外，本文还试图成为可以在日常工作中使用的正则表达式语法参考手册。就作者本人的经历来说，这个目标还是完成得不错的——你看，我自己也没能把所有的东西记下来，不是吗？</p>
+    <p><a href="http://deerchao.net/tutorials/regex/regex.htm" id="clearButton" onclick="return clearFormats();">清除格式</a>&nbsp;文本格式约定：<span class="name">专业术语</span>&nbsp;<span class="code">元字符/语法格式</span>&nbsp;<span class="regex">正则表达式</span>&nbsp;<span class="part">正则表达式中的一部分(用于分析)</span>&nbsp;<span class="string">对其进行匹配的源字符串</span>&nbsp;<span class="desc">对正则表达式或其中一部分的说明</span></p>
+    <p><a href="http://deerchao.net/tutorials/regex/regex.htm" id="hideButton" onclick="return hideNotes();">隐藏边注</a>&nbsp;本文右边有一些注释，主要是用来提供一些相关信息，或者给没有程序员背景的读者解释一些基本概念，通常可以忽略。</p>
+
+    <h2 id="introduction">正则表达式到底是什么东西？</h2>
+    <p class="note"><span class="name">字符</span>是计算机软件处理文字时最基本的单位，可能是字母，数字，标点符号，空格，换行符，汉字等等。<span class="name">字符串</span>是0个或更多个字符的序列。<span class="name">文本</span>也就是文字，字符串。说某个字符串<span class="name">匹配</span>某个正则表达式，通常是指这个字符串里有一部分（或几部分分别）能满足表达式给出的条件。</p>
+    <p>在编写处理字符串的程序或网页时，经常会有查找符合某些复杂规则的字符串的需要。<span class="name">正则表达式</span>就是用于描述这些规则的工具。换句话说，正则表达式就是记录文本规则的代码。</p>
+    <p>很可能你使用过Windows/Dos下用于文件查找的<span class="name">通配符(wildcard)</span>，也就是<span class="code">*</span>和<span class="code">?</span>。如果你想查找某个目录下的所有的Word文档的话，你会搜索<span style="color: red;">*.doc</span>。在这里，<span class="code">*</span>会被解释成任意的字符串。和通配符类似，正则表达式也是用来进行文本匹配的工具，只不过比起通配符，它能更精确地描述你的需求——当然，代价就是更复杂——比如你可以编写一个正则表达式，用来查找<span class="desc">所有以0开头，后面跟着2-3个数字，然后是一个连字号“-”，最后是7或8位数字的字符串</span>(像<span class="string">010-12345678</span>或<span class="string">0376-7654321</span>)。</p>
+
+    <h2 id="getstarted">入门</h2>
+    <p>学习正则表达式的最好方法是从例子开始，理解例子之后再自己对例子进行修改，实验。下面给出了不少简单的例子，并对它们作了详细的说明。</p>
+    <p>假设你在一篇英文小说里查找<span class="desc">hi</span>，你可以使用正则表达式<span class="regex">hi</span>。</p>
+    <p>这几乎是最简单的正则表达式了，它可以精确匹配这样的字符串：<span class="desc">由两个字符组成，前一个字符是h,后一个是i</span>。通常，处理正则表达式的工具会提供一个忽略大小写的选项，如果选中了这个选项，它可以匹配<span class="string">hi</span>,<span class="string">HI</span>,<span class="string">Hi</span>,<span class="string">hI</span>这四种情况中的任意一种。</p>
+    <p>不幸的是，很多单词里包含<span class="string">hi</span>这两个连续的字符，比如<span class="string">him</span>,<span class="string">history</span>,<span class="string">high</span>等等。用<span class="regex">hi</span>来查找的话，这里边的<span class="string">hi</span>也会被找出来。如果要<span class="desc">精确地查找hi这个单词</span>的话，我们应该使用<span class="regex">\bhi\b</span>。</p>
+    <p><span class="part">\b</span>是正则表达式规定的一个特殊代码（好吧，某些人叫它<span class="name">元字符，metacharacter</span>），代表着<span class="desc">单词的开头或结尾，也就是单词的分界处</span>。虽然通常英文的单词是由空格，标点符号或者换行来分隔的，但是<span class="code">\b</span>并不匹配这些单词分隔字符中的任何一个，它<strong>只匹配一个位置</strong>。</p>
+    <p class="note">如果需要更精确的说法，<span class="code">\b</span>匹配这样的位置：它的前一个字符和后一个字符不全是(一个是,一个不是或不存在)<span class="code">\w</span>。</p>
+    <p>假如你要找的是<span class="desc">hi后面不远处跟着一个Lucy</span>，你应该用<span class="regex">\bhi\b.*\bLucy\b</span>。</p>
+    <p>这里，<span class="part">.</span>是另一个元字符，匹配<span class="desc">除了换行符以外的任意字符</span>。<span class="part">*</span>同样是元字符，不过它代表的不是字符，也不是位置，而是数量——它指定*<span class="desc">前边的内容可以连续重复使用任意次以使整个表达式得到匹配</span>。因此，<span class="part">.*</span>连在一起就意味着<span class="desc">任意数量的不包含换行的字符</span>。现在<span class="regex">\bhi\b.*\bLucy\b</span>的意思就很明显了：<span class="desc">先是一个单词hi,然后是任意个任意字符(但不能是换行)，最后是Lucy这个单词</span>。</p>
+    <p class="note">换行符就是'\n',ASCII编码为10(十六进制0x0A)的字符。</p>
+    <p>如果同时使用其它元字符，我们就能构造出功能更强大的正则表达式。比如下面这个例子：</p>
+    <p><span class="regex">0\d\d-\d\d\d\d\d\d\d\d</span>匹配这样的字符串：<span class="desc">以0开头，然后是两个数字，然后是一个连字号“-”，最后是8个数字</span>(也就是中国的电话号码。当然，这个例子只能匹配区号为3位的情形)。</p>
+    <p>这里的<span class="part">\d</span>是个新的元字符，匹配<span class="desc">一位数字(0，或1，或2，或
+
+)</span>。<span class="part">-</span>不是元字符，只匹配它本身——连字符(或者减号，或者中横线，或者随你怎么称呼它)。</p>
+    <p>为了避免那么多烦人的重复，我们也可以这样写这个表达式：<span class="regex">0\d{2}-\d{8}</span>。这里<span class="part">\d</span>后面的<span class="part">{2}</span>(<span class="part">{8}</span>)的意思是前面<span class="part">\d</span><span class="desc">必须连续重复匹配2次(8次)</span>。</p>
+
+    <h2 id="testing">测试正则表达式</h2>
+    <div class="note">
+        <p>其它可用的测试工具:</p>
+        <ul>
+            <li><a href="http://www.regexbuddy.com/">RegexBuddy</a></li>
+            <li><a href="http://regexpal.com/">Javascript正则表达式在线测试工具</a></li>
+        </ul>
+    </div>
+    <p>如果你不觉得正则表达式很难读写的话，要么你是一个天才，要么，你不是地球人。正则表达式的语法很令人头疼，即使对经常使用它的人来说也是如此。由于难于读写，容易出错，所以找一种工具对正则表达式进行测试是很有必要的。</p>
+    <p>不同的环境下正则表达式的一些细节是不相同的，本教程介绍的是微软 .Net Framework 4.0 下正则表达式的行为，所以，我向你推荐我编写的.Net下的工具 <a title="转到RegexTester页面" href="../../tools/regex_tester/index.htm">正则表达式测试器</a>。请参考该页面的说明来安装和运行该软件。</p>
+    <p>下面是Regex Tester运行时的截图：</p>
+    <p><a href="http://deerchao.net/tools/regex_tester/index.htm"><img src="../../images/regex_tester.png" alt="正则表达式测试器运行截图" /></a></p>
+
+    <h2 id="metacode">元字符</h2>
+    <p>现在你已经知道几个很有用的元字符了，如<span class="code">\b</span>,<span class="code">.</span>,<span class="code">*</span>，还有<span class="code">\d</span>.正则表达式里还有更多的元字符，比如<span class="code">\s</span>匹配<span class="desc">任意的空白符，包括空格，制表符(Tab)，换行符，中文全角空格等</span>。<span class="code">\w</span>匹配<span class="desc">字母或数字或下划线或汉字等</span>。</p>
+    <p class="note important">对中文/汉字的特殊处理是由.Net提供的正则表达式引擎支持的，其它环境下的具体情况请查看相关文档。</p>
+    <p>下面来看看更多的例子：</p>
+    <p><span class="regex">\ba\w*\b</span>匹配<span class="desc">以字母<span class="part">a</span>开头的单词——先是某个单词开始处(<span class="part">\b</span>)，然后是字母<span class="part">a</span>,然后是任意数量的字母或数字(<span class="part">\w*</span>)，最后是单词结束处(<span class="part">\b</span>)</span>。</p>
+    <p class="note">好吧，现在我们说说正则表达式里的单词是什么意思吧：就是不少于一个的连续的<span class="code">\w</span>。不错，这与学习英文时要背的成千上万个同名的东西的确关系不大 :)</p>
+    <p><span class="regex">\d+</span>匹配<span class="desc">1个或更多连续的数字</span>。这里的<span class="part">+</span>是和<span class="code">*</span>类似的元字符，不同的是<span class="code">*</span>匹配<span class="desc">重复任意次(可能是0次)</span>，而<span class="code">+</span>则匹配<span class="desc">重复1次或更多次</span>。</p>
+    <p><span class="regex">\b\w{6}\b</span> 匹配<span class="desc">刚好6个字符的单词</span>。</p>
+    <table cellspacing="0">
+        <caption>表1.常用的元字符</caption>
+        <thead>
+            <tr>
+                <th scope="col">代码</th>
+
+                <th scope="col">说明</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><span class="code">.</span></td>
+                <td><span class="desc">匹配除换行符以外的任意字符</span></td>
+
+            </tr>
+            <tr>
+                <td><span class="code">\w</span></td>
+                <td><span class="desc">匹配字母或数字或下划线或汉字</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">\s</span></td>
+
+                <td><span class="desc">匹配任意的空白符</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">\d</span></td>
+                <td><span class="desc">匹配数字</span></td>
+            </tr>
+            <tr>
+
+                <td><span class="code">\b</span></td>
+                <td><span class="desc">匹配单词的开始或结束</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">^</span></td>
+                <td><span class="desc">匹配字符串的开始</span></td>
+            </tr>
+
+            <tr>
+                <td><span class="code">$</span></td>
+                <td><span class="desc">匹配字符串的结束</span></td>
+            </tr>
+        </tbody>
+    </table>
+    <p class="note">正则表达式引擎通常会提供一个“测试指定的字符串是否匹配一个正则表达式”的方法，如JavaScript里的RegExp.test()方法或.NET里的Regex.IsMatch()方法。这里的匹配是指是字符串里有没有符合表达式规则的部分。如果不使用<span class="code">^</span>和<span class="code">$</span>的话，对于<span class="regex">\d{5,12}</span>而言，使用这样的方法就只能保证字符串里<span class="desc">包含5到12连续位数字</span>，而不是整个字符串就是5到12位数字。</p>
+    <p>元字符<span class="code">^</span>（和数字6在同一个键位上的符号）和<span class="code">$</span>都匹配一个位置，这和<span class="code">\b</span>有点类似。<span class="code">^</span>匹配你要用来查找的字符串的开头，<span class="code">$</span>匹配结尾。这两个代码在验证输入的内容时非常有用，比如一个网站如果要求你填写的QQ号必须为5位到12位数字时，可以使用：<span class="regex">^\d{5,12}$</span>。</p>
+    <p>这里的<span class="part">{5,12}</span>和前面介绍过的<span class="part">{2}</span>是类似的，只不过<span class="part">{2}</span>匹配<span class="desc">只能不多不少重复2次</span>，<span class="part">{5,12}</span>则是<span class="desc">重复的次数不能少于5次，不能多于12次</span>，否则都不匹配。</p>
+    <p>因为使用了<span class="part">^</span>和<span class="part">$</span>，所以输入的整个字符串都要用来和<span class="part">\d{5,12}</span>来匹配，也就是说整个输入<span class="desc">必须是5到12个数字</span>，因此如果输入的QQ号能匹配这个正则表达式的话，那就符合要求了。</p>
+    <p>和忽略大小写的选项类似，有些正则表达式处理工具还有一个处理多行的选项。如果选中了这个选项，<span class="code">^</span>和<span class="code">$</span>的意义就变成了<span class="desc">匹配行的开始处和结束处</span>。</p>
+
+    <h2 id="escape">字符转义</h2>
+    <p>如果你想查找元字符本身的话，比如你查找<span class="desc">.</span>,或者<span class="desc">*</span>,就出现了问题：你没办法指定它们，因为它们会被解释成别的意思。这时你就得使用<span class="code">\</span>来取消这些字符的特殊意义。因此，你应该使用<span class="regex">\.</span>和<span class="regex">\*</span>。当然，要查找<span class="desc">\</span>本身，你也得用<span class="regex">\\</span>.</p>
+    <p>例如：<span class="regex">deerchao\.net</span>匹配<span class="desc">deerchao.net</span>，<span class="regex">C:\\Windows</span>匹配<span class="desc">C:\Windows</span>。</p>
+
+    <h2 id="repeat">重复</h2>
+    <div class="ad">
+        <script type="text/javascript"><!--
+            //<![CDATA[
+            google_ad_client = "ca-pub-1134642721173543";
+            /* Regex middle */
+            google_ad_slot = "4700826168";
+            google_ad_width = 300;
+            google_ad_height = 250;
+            //]]>
+        </script>
+        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+    </div>
+    <p>你已经看过了前面的<span class="code">*</span>,<span class="code">+</span>,<span class="code">{2}</span>,<span class="code">{5,12}</span>这几个匹配重复的方式了。下面是正则表达式中所有的限定符(指定数量的代码，例如*,{5,12}等)：</p>
+    <table cellspacing="0">
+        <caption>表2.常用的限定符</caption>
+        <thead>
+            <tr>
+                <th scope="col">代码/语法</th>
+                <th scope="col">说明</th>
+            </tr>
+
+        </thead>
+        <tbody>
+            <tr>
+                <td><span class="code">*</span></td>
+                <td><span class="desc">重复零次或更多次</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">+</span></td>
+
+                <td><span class="desc">重复一次或更多次</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">?</span></td>
+                <td><span class="desc">重复零次或一次</span></td>
+            </tr>
+            <tr>
+
+                <td><span class="code">{n}</span></td>
+                <td><span class="desc">重复n次</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">{n,}</span></td>
+                <td><span class="desc">重复n次或更多次</span></td>
+            </tr>
+
+            <tr>
+                <td><span class="code">{n,m}</span></td>
+                <td><span class="desc">重复n到m次</span></td>
+            </tr>
+        </tbody>
+    </table>
+    <p>下面是一些使用重复的例子：</p>
+    <p><span class="regex">Windows\d+</span>匹配<span class="desc">Windows后面跟1个或更多数字</span></p>
+    <p><span class="regex">^\w+</span>匹配<span class="desc">一行的第一个单词(或整个字符串的第一个单词，具体匹配哪个意思得看选项设置)</span></p>
+
+    <h2 id="charclass">字符类</h2>
+    <p>要想查找数字，字母或数字，空白是很简单的，因为已经有了对应这些字符集合的元字符，但是如果你想匹配没有预定义元字符的字符集合(比如元音字母a,e,i,o,u),应该怎么办？</p>
+    <p>很简单，你只需要在方括号里列出它们就行了，像<span class="regex">[aeiou]</span>就匹配<span class="desc">任何一个英文元音字母</span>，<span class="regex">[.?!]</span>匹配<span class="desc">标点符号(.或?或!)</span>。</p>
+    <p>我们也可以轻松地指定一个字符<span class="name">范围</span>，像<span class="regex">[0-9]</span>代表的含意与<span class="regex">\d</span>就是完全一致的：<span class="desc">一位数字</span>；同理<span class="regex">[a-z0-9A-Z_]</span>也完全等同于<span class="code">\w</span>（如果只考虑英文的话）。</p>
+    <p>下面是一个更复杂的表达式：<span class="regex">\(?0\d{2}[) -]?\d{8}</span>。</p>
+    <p class="note">“(”和“)”也是元字符，后面的<a href="#grouping">分组节</a>里会提到，所以在这里需要使用<a href="#escape">转义</a>。</p>
+    <p>这个表达式可以匹配<span class="desc">几种格式的电话号码</span>，像<span class="string">(010)88886666</span>，或<span class="string">022-22334455</span>，或<span class="string">02912345678</span>等。我们对它进行一些分析吧：首先是一个转义字符<span class="part">\(</span>,它能出现0次或1次(<span class="part">?</span>),然后是一个<span class="part">0</span>，后面跟着2个数字(<span class="part">\d{2}</span>)，然后是<span class="part">)</span>或<span class="part">-</span>或<span class="part">空格</span>中的一个，它出现1次或不出现(<span class="part">?</span>)，最后是8个数字(<span class="part">\d{8}</span>)。</p>
+0
+010
+    <h2 id="alternative">分枝条件</h2>
+    <p>不幸的是，刚才那个表达式也能匹配<span class="string">010)12345678</span>或<span class="string">(022-87654321</span>这样的“不正确”的格式。要解决这个问题，我们需要用到<span class="name">分枝条件</span>。正则表达式里的<span class="name">分枝条件</span>指的是有几种规则，如果满足其中任意一种规则都应该当成匹配，具体方法是用<span class="code">|</span>把不同的规则分隔开。听不明白？没关系，看例子：</p>
+    <p><span class="regex">0\d{2}-\d{8}|0\d{3}-\d{7}</span>这个表达式能<span class="desc">匹配两种以连字号分隔的电话号码：一种是三位区号，8位本地号(如010-12345678)，一种是4位区号，7位本地号(0376-2233445)</span>。</p>
+    <p><span class="regex">\(?0\d{2}\)?[- ]?\d{8}|0\d{2}[- ]?\d{8}</span>这个表达式<span class="desc">匹配3位区号的电话号码，其中区号可以用小括号括起来，也可以不用，区号与本地号间可以用连字号或空格间隔，也可以没有间隔</span>。你可以试试用分枝条件把这个表达式扩展成也支持4位区号的。</p>
+    <p><span class="regex">\d{5}-\d{4}|\d{5}</span>这个表达式用于匹配美国的邮政编码。美国邮编的规则是5位数字，或者用连字号间隔的9位数字。之所以要给出这个例子是因为它能说明一个问题：<strong>使用分枝条件时，要注意各个条件的顺序</strong>。如果你把它改成<span class="regex">\d{5}|\d{5}-\d{4}</span>的话，那么就只会匹配5位的邮编(以及9位邮编的前5位)。原因是匹配分枝条件时，将会从左到右地测试每个条件，如果满足了某个分枝的话，就不会去再管其它的条件了。</p>
+
+    <h2 id="grouping">分组</h2>
+    <p>我们已经提到了怎么重复单个字符（直接在字符后面加上限定符就行了）；但如果想要重复多个字符又该怎么办？你可以用小括号来指定<span class="name">子表达式</span>(也叫做<span class="name">分组</span>)，然后你就可以指定这个子表达式的重复次数了，你也可以对子表达式进行其它一些操作(后面会有介绍)。</p>
+    <p><span class="regex">(\d{1,3}\.){3}\d{1,3}</span>是一个<span class="desc">简单的IP地址匹配</span>表达式。要理解这个表达式，请按下列顺序分析它：<span class="part">\d{1,3}</span>匹配<span class="desc">1到3位的数字</span>，<span class="part">(\d{1,3}\.){3}</span>匹配<span class="desc">三位数字加上一个英文句号(这个整体也就是这个<span class="name">分组</span>)重复3次</span>，最后再加上<span class="desc">一个一到三位的数字</span>(<span class="part">\d{1,3}</span>)。</p>
+    <p class="note">IP地址中每个数字都不能大于255. 经常有人问我, 01.02.03.04 这样前面带有0的数字, 是不是正确的IP地址呢? 答案是: 是的, IP 地址里的数字可以包含有前导 0 (leading zeroes).</p>
+    <p>不幸的是，它也将匹配<span class="string">256.300.888.999</span>这种不可能存在的IP地址。如果能使用算术比较的话，或许能简单地解决这个问题，但是正则表达式中并不提供关于数学的任何功能，所以只能使用冗长的分组，选择，字符类来描述一个正确的IP地址：<span class="regex">((2[0-4]\d|25[0-5]|[01]?\d\d?)\.){3}(2[0-4]\d|25[0-5]|[01]?\d\d?)</span>。</p>
+    <p>理解这个表达式的关键是理解<span class="part">2[0-4]\d|25[0-5]|[01]?\d\d?</span>，这里我就不细说了，你自己应该能分析得出来它的意义。</p>
+
+    <h2 id="negation">反义</h2>
+    <p>有时需要查找不属于某个能简单定义的字符类的字符。比如想查找除了数字以外，其它任意字符都行的情况，这时需要用到<span class="name">反义</span>：</p>
+    <table cellspacing="0">
+        <caption>表3.常用的反义代码</caption>
+        <thead>
+            <tr>
+1.0002000900
+0.00002
+-00.00
+000000.0020000
+-01.22
+-0.02000
+-1.2
+-0.21
+0.000
+0.
+                <th scope="col">代码/语法</th>
+
+                <th scope="col">说明</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><span class="code">\W</span></td>
+                <td><span class="desc">匹配任意不是字母，数字，下划线，汉字的字符</span></td>
+
+            </tr>
+            <tr>
+                <td><span class="code">\S</span></td>
+                <td><span class="desc">匹配任意不是空白符的字符</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">\D</span></td>
+
+                <td><span class="desc">匹配任意非数字的字符</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">\B</span></td>
+                <td><span class="desc">匹配不是单词开头或结束的位置</span></td>
+            </tr>
+            <tr>
+
+                <td><span class="code">[^x]</span></td>
+                <td><span class="desc">匹配除了x以外的任意字符</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">[^aeiou]</span></td>
+                <td><span class="desc">匹配除了aeiou这几个字母以外的任意字符</span></td>
+            </tr>
+
+        </tbody>
+    </table>
+    <p>例子：<span class="regex">\S+</span>匹配<span class="desc">不包含空白符的字符串</span>。</p>
+    <p><span class="regex">&lt;a[^&gt;]+&gt;</span>匹配<span class="desc">用尖括号括起来的以a开头的字符串</span>。</p>
+
+    <h2 id="backreference">后向引用</h2>
+    <p>使用小括号指定一个子表达式后，<strong>匹配这个子表达式的文本</strong>(也就是此分组捕获的内容)可以在表达式或其它程序中作进一步的处理。默认情况下，每个分组会自动拥有一个<span class="name">组号</span>，规则是：从左向右，以分组的左括号为标志，第一个出现的分组的组号为1，第二个为2，以此类推。</p>
+    <div class="note">
+        <p>呃
+
+其实,组号分配还不像我刚说得那么简单：</p>
+        <ul>
+            <li>分组0对应整个正则表达式</li>
+            <li>实际上组号分配过程是要从左向右扫描两遍的：第一遍只给未命名组分配，第二遍只给命名组分配－－因此所有命名组的组号都大于未命名的组号</li>
+            <li>你可以使用<span class="code">(?:exp)</span>这样的语法来剥夺一个分组对组号分配的参与权．</li>
+        </ul>
+    </div>
+    <p><span class="name">后向引用</span>用于重复搜索前面某个分组匹配的文本。例如，<span class="part">\1</span>代表<span class="desc">分组1匹配的文本</span>。难以理解？请看示例：</p>
+    <p><span class="regex">\b(\w+)\b\s+\1\b</span>可以用来匹配<span class="desc">重复的单词</span>，像<span class="string">go go</span>, 或者<span class="string">kitty kitty</span>。这个表达式首先是<span class="desc">一个单词</span>，也就是<span class="desc">单词开始处和结束处之间的多于一个的字母或数字</span>(<span class="part">\b(\w+)\b</span>)，这个单词会被捕获到编号为1的分组中，然后是<span class="desc">1个或几个空白符</span>(<span class="part">\s+</span>)，最后是<span class="desc">分组1中捕获的内容（也就是前面匹配的那个单词）</span>(<span class="part">\1</span>)。</p>
+    <p>你也可以自己指定子表达式的<span class="name">组名</span>。要指定一个子表达式的组名，请使用这样的语法：<span class="code">(?&lt;Word&gt;\w+)</span>(或者把尖括号换成<span class="code">'</span>也行：<span class="code">(?'Word'\w+)</span>),这样就把<span class="part">\w+</span>的组名指定为<span class="part">Word</span>了。要反向引用这个分组<span class="name">捕获</span>的内容，你可以使用<span class="code">\k&lt;Word&gt;</span>,所以上一个例子也可以写成这样：<span class="regex">\b(?&lt;Word&gt;\w+)\b\s+\k&lt;Word&gt;\b</span>。</p>
+    <p>使用小括号的时候，还有很多特定用途的语法。下面列出了最常用的一些：</p>
+    <table cellspacing="0">
+        <caption>表4.常用分组语法</caption>
+        <tbody>
+            <tr>
+                <th scope="col">分类</th>
+                <th scope="col">代码/语法</th>
+
+                <th scope="col">说明</th>
+            </tr>
+            <tr>
+                <th rowspan="3">捕获</th>
+                <td><span class="code">(exp)</span></td>
+                <td><span class="desc">匹配exp,并捕获文本到自动命名的组里</span></td>
+            </tr>
+
+            <tr>
+                <td><span class="code">(?&lt;name&gt;exp)</span></td>
+                <td><span class="desc">匹配exp,并捕获文本到名称为name的组里，也可以写成(?'name'exp)</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">(?:exp)</span></td>
+
+                <td><span class="desc">匹配exp,不捕获匹配的文本，也不给此分组分配组号</span></td>
+            </tr>
+            <tr>
+                <th rowspan="4">零宽断言</th>
+                <td><span class="code">(?=exp)</span></td>
+                <td><span class="desc">匹配exp前面的位置</span></td>
+            </tr>
+
+            <tr>
+                <td><span class="code">(?&lt;=exp)</span></td>
+                <td><span class="desc">匹配exp后面的位置</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">(?!exp)</span></td>
+                <td><span class="desc">匹配后面跟的不是exp的位置</span></td>
+
+            </tr>
+            <tr>
+                <td><span class="code">(?&lt;!exp)</span></td>
+                <td><span class="desc">匹配前面不是exp的位置</span></td>
+            </tr>
+            <tr>
+                <th rowspan="1">注释</th>
+
+                <td><span class="code">(?#comment)</span></td>
+                <td><span class="desc">这种类型的分组不对正则表达式的处理产生任何影响，用于提供注释让人阅读</span></td>
+            </tr>
+        </tbody>
+    </table>
+    <p>我们已经讨论了前两种语法。第三个<span class="code">(?:exp)</span>不会改变正则表达式的处理方式，只是这样的组匹配的内容<span class="desc">不会像前两种那样被捕获到某个组里面，也不会拥有组号</span>。“我为什么会想要这样做？”——好问题，你觉得为什么呢？</p>
+
+    <h2 id="lookaround">零宽断言</h2>
+    <p class="note">地球人，是不是觉得这些术语名称太复杂，太难记了？我也有同感。知道有这么一种东西就行了，它叫什么，随它去吧！人若无名，便可专心练剑；物若无名，便可随意取舍
+
+</p>
+    <p>接下来的四个用于查找在某些内容(但并不包括这些内容)之前或之后的东西，也就是说它们像<span class="code">\b</span>,<span class="code">^</span>,<span class="code">$</span>那样用于指定一个位置，这个位置应该满足一定的条件(即断言)，因此它们也被称为<span class="name">零宽断言</span>。最好还是拿例子来说明吧：</p>
+    <p class="note">断言用来声明一个应该为真的事实。正则表达式中只有当断言为真时才会继续进行匹配。</p>
+    <p><span class="code">(?=exp)</span>也叫<span class="name">零宽度正预测先行断言</span>，它<span class="desc">断言自身出现的位置的后面能匹配表达式exp</span>。比如<span class="regex">\b\w+(?=ing\b)</span>，匹配<span class="desc">以ing结尾的单词的前面部分(除了ing以外的部分)</span>，如查找<span class="string">I'm singing while you're dancing.</span>时，它会匹配<span class="desc">sing</span>和<span class="desc">danc</span>。</p>
+    <p><span class="code">(?&lt;=exp)</span>也叫<span class="name">零宽度正回顾后发断言</span>，它<span class="desc">断言自身出现的位置的前面能匹配表达式exp</span>。比如<span class="regex">(?&lt;=\bre)\w+\b</span>会匹配<span class="desc">以re开头的单词的后半部分(除了re以外的部分)</span>，例如在查找<span class="string">reading a book</span>时，它匹配<span class="desc">ading</span>。</p>
+    <p>假如你想要给一个很长的数字中每三位间加一个逗号(当然是从右边加起了)，你可以这样查找需要在前面和里面添加逗号的部分：<span class="regex">((?&lt;=\d)\d{3})+\b</span>，用它对<span class="string">1234567890</span>进行查找时结果是<span class="desc">234567890</span>。</p>
+    <p>下面这个例子同时使用了这两种断言：<span class="regex">(?&lt;=\s)\d+(?=\s)</span>匹配<span class="desc">以空白符间隔的数字(再次强调，不包括这些空白符)</span>。</p>
+aloabcdefg
+    <h2 id="negativelookaround">负向零宽断言</h2>
+    <p>前面我们提到过怎么查找<strong>不是某个字符或不在某个字符类里</strong>的字符的方法(反义)。但是如果我们只是想要<strong>确保某个字符没有出现，但并不想去匹配它</strong>时怎么办？例如，如果我们想查找这样的单词--它里面出现了字母q,但是q后面跟的不是字母u,我们可以尝试这样：</p>
+    <p><span class="regex">\b\w*q[^u]\w*\b</span>匹配<span class="desc">包含<strong>后面不是字母u的字母q</strong>的单词</span>。但是如果多做测试(或者你思维足够敏锐，直接就观察出来了)，你会发现，如果q出现在单词的结尾的话，像<strong>Iraq</strong>,<strong>Benq</strong>，这个表达式就会出错。这是因为<span class="part">[^u]</span>总要匹配一个字符，所以如果q是单词的最后一个字符的话，后面的<span class="part">[^u]</span>将会匹配q后面的单词分隔符(可能是空格，或者是句号或其它的什么)，后面的<span class="part">\w*\b</span>将会匹配下一个单词，于是<span class="regex">\b\w*q[^u]\w*\b</span>就能匹配整个<span class="string">Iraq fighting</span>。<span class="name">负向零宽断言</span>能解决这样的问题，因为它只匹配一个位置，并不<strong>消费</strong>任何字符。现在，我们可以这样来解决这个问题：<span class="regex">\b\w*q(?!u)\w*\b</span>。</p>
+    <p><span class="name">零宽度负预测先行断言</span><span class="code">(?!exp)</span>，<span class="desc">断言此位置的后面不能匹配表达式exp</span>。例如：<span class="regex">\d{3}(?!\d)</span>匹配<span class="desc">三位数字，而且这三位数字的后面不能是数字</span>；<span class="regex">\b((?!abc)\w)+\b</span>匹配<span class="desc">不包含连续字符串abc的单词</span>。</p>
+    <p>同理，我们可以用<span class="code">(?&lt;!exp)</span>,<span class="name">零宽度负回顾后发断言</span>来<span class="desc">断言此位置的前面不能匹配表达式exp</span>：<span class="regex">(?&lt;![a-z])\d{7}</span>匹配<span class="desc">前面不是小写字母的七位数字</span>。</p>
+    <p class="note">请详细分析表达式<span class="regex">(?&lt;=&lt;(\w+)&gt;).*(?=&lt;\/\1&gt;)</span>，这个表达式最能表现零宽断言的真正用途。</p>
+    <p>一个更复杂的例子：<span class="regex">(?&lt;=&lt;(\w+)&gt;).*(?=&lt;\/\1&gt;)</span>匹配<span class="desc">不包含属性的简单HTML标签内里的内容</span>。<span class="code">(?&lt;=&lt;(\w+)&gt;)</span>指定了这样的<span class="name">前缀</span>：<span class="desc">被尖括号括起来的单词</span>(比如可能是&lt;b&gt;)，然后是<span class="part">.*</span>(任意的字符串),最后是一个<span class="name">后缀</span><span class="part">(?=&lt;\/\1&gt;)</span>。注意后缀里的<span class="part">\/</span>，它用到了前面提过的字符转义；<span class="part">\1</span>则是一个反向引用，引用的正是<span class="desc">捕获的第一组</span>，前面的<span class="part">(\w+)</span>匹配的内容，这样如果前缀实际上是&lt;b&gt;的话，后缀就是&lt;/b&gt;了。整个表达式匹配的是&lt;b&gt;和&lt;/b&gt;之间的内容(再次提醒，不包括前缀和后缀本身)。</p>
+
+    <h2 id="commenting">注释</h2>
+    <p>小括号的另一种用途是通过语法<span class="code">(?#comment)</span>来包含注释。例如：<span class="regex">2[0-4]\d(?#200-249)|25[0-5](?#250-255)|[01]?\d\d?(?#0-199)</span>。</p>
+    <p>要包含注释的话，最好是启用“忽略模式里的空白符”选项，这样在编写表达式时能任意的添加空格，Tab，换行，而实际使用时这些都将被忽略。启用这个选项后，在#后面到这一行结束的所有文本都将被当成注释忽略掉。例如，我们可以前面的一个表达式写成这样：</p>
+    <pre class="regex">      (?&lt;=    # 断言要匹配的文本的前缀
+      &lt;(\w+)&gt; # 查找尖括号括起来的字母或数字(即HTML/XML标签)
+      )       # 前缀结束
+      .*      # 匹配任意文本
+      (?=     # 断言要匹配的文本的后缀
+      &lt;\/\1&gt;  # 查找尖括号括起来的内容：前面是一个"/"，后面是先前捕获的标签
+      )       # 后缀结束</pre>
+
+    <h2 id="greedyandlazy">贪婪与懒惰</h2>
+    <p>当正则表达式中包含能接受重复的限定符时，通常的行为是（在使整个表达式能得到匹配的前提下）匹配<strong>尽可能多</strong>的字符。以这个表达式为例：<span class="regex">a.*b</span>，它将会匹配<span class="desc">最长的以a开始，以b结束的字符串</span>。如果用它来搜索<span class="string">aabab</span>的话，它会匹配整个字符串<span class="desc">aabab</span>。这被称为<span class="name">贪婪</span>匹配。</p>
+    <p>有时，我们更需要<span class="name">懒惰</span>匹配，也就是匹配<strong>尽可能少</strong>的字符。前面给出的限定符都可以被转化为懒惰匹配模式，只要在它后面加上一个问号<span class="code">?</span>。这样<span class="regex">.*?</span>就意味着<span class="desc">匹配任意数量的重复，但是在能使整个匹配成功的前提下使用最少的重复</span>。现在看看懒惰版的例子吧：</p>
+    <p><span class="regex">a.*?b</span>匹配<span class="desc">最短的，以a开始，以b结束的字符串</span>。如果把它应用于<span class="string">aabab</span>的话，它会匹配<span class="desc">aab（第一到第三个字符）</span>和<span class="desc">ab（第四到第五个字符）</span>。</p>
+    <p class="note">为什么第一个匹配是aab（第一到第三个字符）而不是ab（第二到第三个字符）？简单地说，因为正则表达式有另一条规则，比懒惰／贪婪规则的优先级更高：最先开始的匹配拥有最高的优先权——The match that begins earliest wins。</p>
+    <table cellspacing="0">
+        <caption>表5.懒惰限定符</caption>
+        <thead>
+            <tr>
+                <th scope="col">代码/语法</th>
+                <th scope="col">说明</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><span class="code">*?</span></td>
+                <td><span class="desc">重复任意次，但尽可能少重复</span></td>
+            </tr>
+            <tr>
+
+                <td><span class="code">+?</span></td>
+                <td><span class="desc">重复1次或更多次，但尽可能少重复</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">??</span></td>
+                <td><span class="desc">重复0次或1次，但尽可能少重复</span></td>
+            </tr>
+
+            <tr>
+                <td><span class="code">{n,m}?</span></td>
+                <td><span class="desc">重复n到m次，但尽可能少重复</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">{n,}?</span></td>
+                <td><span class="desc">重复n次以上，但尽可能少重复</span></td>
+
+            </tr>
+        </tbody>
+    </table>
+
+    <h2 id="regexoptions">处理选项</h2>
+    <p class="note">在C#中，你可以使用<a href="http://msdn2.microsoft.com/zh-cn/library/h5845fdz.aspx" title="MSDN 相关文档">Regex(String, RegexOptions)构造函数</a>来设置正则表达式的处理选项。如：Regex regex = new Regex(@"\ba\w{6}\b", RegexOptions.IgnoreCase);</p>
+    <p>上面介绍了几个选项如忽略大小写，处理多行等，这些选项能用来改变处理正则表达式的方式。下面是.Net中常用的正则表达式选项：</p>
+    <table cellspacing="0">
+        <caption>表6.常用的处理选项</caption>
+        <thead>
+            <tr>
+                <th scope="col">名称</th>
+                <th scope="col">说明</th>
+            </tr>
+
+        </thead>
+        <tbody>
+            <tr>
+                <td>IgnoreCase(忽略大小写)</td>
+                <td>匹配时不区分大小写。</td>
+            </tr>
+            <tr>
+                <td>Multiline(多行模式)</td>
+
+                <td>更改<span class="code">^</span>和<span class="code">$</span>的含义，使它们分别在任意一行的行首和行尾匹配，而不仅仅在整个字符串的开头和结尾匹配。(在此模式下,<span class="code">$</span>的精确含意是:匹配\n之前的位置以及字符串结束前的位置.) </td>
+            </tr>
+            <tr>
+                <td>Singleline(单行模式)</td>
+                <td>更改<span class="code">.</span>的含义，使它与每一个字符匹配（包括换行符\n）。 </td>
+
+            </tr>
+            <tr>
+                <td>IgnorePatternWhitespace(忽略空白)</td>
+                <td>忽略表达式中的非转义空白并启用由<span class="code">#</span>标记的注释。</td>
+            </tr>
+            <tr>
+                <td>ExplicitCapture(显式捕获)</td>
+                <td>仅捕获已被显式命名的组。</td>
+            </tr>
+        </tbody>
+    </table>
+    <p>一个经常被问到的问题是：是不是只能同时使用多行模式和单行模式中的一种？答案是：不是。这两个选项之间没有任何关系，除了它们的名字比较相似（以至于让人感到疑惑）以外。</p>
+
+    <h2 id="balancedgroup">平衡组/递归匹配</h2>
+    <p class="important note">这里介绍的平衡组语法是由.Net Framework支持的；其它语言／库不一定支持这种功能，或者支持此功能但需要使用不同的语法。</p>
+    <p>有时我们需要匹配像<span class="desc">( 100 * ( 50 + 15 ) )这样的可嵌套的层次性结构</span>，这时简单地使用<span class="code">\(.+\)</span>则只会匹配到最左边的左括号和最右边的右括号之间的内容(这里我们讨论的是贪婪模式，懒惰模式也有下面的问题)。假如原来的字符串里的左括号和右括号出现的次数不相等，比如<span class="string">( 5 / ( 3 + 2 ) ) )</span>，那我们的匹配结果里两者的个数也不会相等。有没有办法在这样的字符串里匹配到最长的，配对的括号之间的内容呢？</p>
+    <p>为了避免<span class="code">(</span>和<span class="code">\(</span>把你的大脑彻底搞糊涂，我们还是用尖括号代替圆括号吧。现在我们的问题变成了如何把<span class="string">xx &lt;aa &lt;bbb&gt; &lt;bbb&gt; aa&gt; yy</span>这样的字符串里，最长的配对的尖括号内的内容捕获出来？</p>
+    <p>这里需要用到以下的语法构造：</p>
+    <ul>
+        <li><span class="code">(?'group')</span> 把捕获的内容命名为group,并压入<span class="name">堆栈(Stack)</span></li>
+        <li><span class="code">(?'-group')</span> 从堆栈上弹出最后压入堆栈的名为group的捕获内容，如果堆栈本来为空，则本分组的匹配失败</li>
+        <li><span class="code">(?(group)yes|no)</span> 如果堆栈上存在以名为group的捕获内容的话，继续匹配yes部分的表达式，否则继续匹配no部分</li>
+
+        <li><span class="code">(?!)</span> 零宽负向先行断言，由于没有后缀表达式，试图匹配总是失败</li>
+    </ul>
+    <p class="note">如果你不是一个程序员（或者你自称程序员但是不知道堆栈是什么东西），你就这样理解上面的三种语法吧：第一个就是在黑板上写一个"group"，第二个就是从黑板上擦掉一个"group"，第三个就是看黑板上写的还有没有"group"，如果有就继续匹配yes部分，否则就匹配no部分。</p>
+    <p>我们需要做的是每碰到了左括号，就在压入一个"Open",每碰到一个右括号，就弹出一个，到了最后就看看堆栈是否为空－－如果不为空那就证明左括号比右括号多，那匹配就应该失败。正则表达式引擎会进行回溯(放弃最前面或最后面的一些字符)，尽量使整个表达式得到匹配。</p>
+    <pre class="regex">&lt;                         #最外层的左括号
+    [^&lt;&gt;]*                #最外层的左括号后面的不是括号的内容
+    (
+        (
+            (?'Open'&lt;)    #碰到了左括号，在黑板上写一个"Open"
+            [^&lt;&gt;]*       #匹配左括号后面的不是括号的内容
+        )+
+        (
+            (?'-Open'&gt;)   #碰到了右括号，擦掉一个"Open"
+            [^&lt;&gt;]*        #匹配右括号后面不是括号的内容
+        )+
+    )*
+    (?(Open)(?!))         #在遇到最外层的右括号前面，判断黑板上还有没有没擦掉的"Open"；如果还有，则匹配失败
+
+&gt;                         #最外层的右括号</pre>
+    <p>平衡组的一个最常见的应用就是匹配HTML,下面这个例子可以匹配<span class="desc">嵌套的&lt;div&gt;标签</span>：<span class="regex">&lt;div[^&gt;]*&gt;[^&lt;&gt;]*(((?'Open'&lt;div[^&gt;]*&gt;)[^&lt;&gt;]*)+((?'-Open'&lt;/div&gt;)[^&lt;&gt;]*)+)*(?(Open)(?!))&lt;/div&gt;</span>.</p>
+
+    <h2 id="more">还有些什么东西没提到</h2>
+    <p>上边已经描述了构造正则表达式的大量元素，但是还有很多没有提到的东西。下面是一些未提到的元素的列表，包含语法和简单的说明。你可以在网上找到更详细的参考资料来学习它们--当你需要用到它们的时候。如果你安装了MSDN Library,你也可以在里面找到.net下正则表达式详细的文档。这里的介绍很简略，如果你需要更详细的信息，而又没有在电脑上安装MSDN Library,可以查看<a href="http://msdn.microsoft.com/zh-cn/library/az24scfc.aspx">关于正则表达式语言元素的MSDN在线文档</a>。</p>
+    <div class="ad">
+        <script type="text/javascript"><!--
+            //<![CDATA[
+            google_ad_client = "ca-pub-1134642721173543";
+            /* Regex middle */
+            google_ad_slot = "4700826168";
+            google_ad_width = 300;
+            google_ad_height = 250;
+            //]]>
+        </script>
+        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+    </div>
+    <table cellspacing="0">
+        <caption>表7.尚未详细讨论的语法</caption>
+        <thead>
+            <tr>
+                <th scope="col">代码/语法</th>
+
+                <th scope="col">说明</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><span class="code">\a</span></td>
+                <td><span class="desc">报警字符(打印它的效果是电脑嘀一声)</span></td>
+
+            </tr>
+            <tr>
+                <td><span class="code">\b</span></td>
+                <td><span class="desc">通常是单词分界位置，但如果在字符类里使用代表退格</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">\t</span></td>
+
+                <td><span class="desc">制表符，Tab</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">\r</span></td>
+                <td><span class="desc">回车</span></td>
+            </tr>
+            <tr>
+
+                <td><span class="code">\v</span></td>
+                <td><span class="desc">竖向制表符</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">\f</span></td>
+                <td><span class="desc">换页符</span></td>
+            </tr>
+
+            <tr>
+                <td><span class="code">\n</span></td>
+                <td><span class="desc">换行符</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">\e</span></td>
+                <td><span class="desc">Escape</span></td>
+
+            </tr>
+            <tr>
+                <td><span class="code">\0nn</span></td>
+                <td><span class="desc">ASCII代码中八进制代码为nn的字符</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">\xnn</span></td>
+
+                <td><span class="desc">ASCII代码中十六进制代码为nn的字符</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">\unnnn</span></td>
+                <td><span class="desc">Unicode代码中十六进制代码为nnnn的字符</span></td>
+            </tr>
+            <tr>
+
+                <td><span class="code">\cN</span></td>
+                <td><span class="desc">ASCII控制字符。比如\cC代表Ctrl+C</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">\A</span></td>
+                <td><span class="desc">字符串开头(类似^，但不受处理多行选项的影响)</span></td>
+            </tr>
+
+            <tr>
+                <td><span class="code">\Z</span></td>
+                <td><span class="desc">字符串结尾或行尾(不受处理多行选项的影响)</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">\z</span></td>
+                <td><span class="desc">字符串结尾(类似$，但不受处理多行选项的影响)</span></td>
+
+            </tr>
+            <tr>
+                <td><span class="code">\G</span></td>
+                <td><span class="desc">当前搜索的开头</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">\p{name}</span></td>
+
+                <td><span class="desc">Unicode中命名为name的字符类，例如\p{IsGreek}</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">(?&gt;exp)</span></td>
+                <td><span class="desc">贪婪子表达式</span></td>
+            </tr>
+            <tr>
+
+                <td><span class="code">(?&lt;x&gt;-&lt;y&gt;exp)</span></td>
+                <td><span class="desc">平衡组</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">(?im-nsx:exp)</span></td>
+
+                <td><span class="desc">在子表达式exp中改变处理选项</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">(?im-nsx)</span></td>
+                <td><span class="desc">为表达式后面的部分改变处理选项</span></td>
+            </tr>
+            <tr>
+
+                <td><span class="code">(?(exp)yes|no)</span></td>
+                <td><span class="desc">把exp当作零宽正向先行断言，如果在这个位置能匹配，使用yes作为此组的表达式；否则使用no</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">(?(exp)yes)</span></td>
+                <td><span class="desc">同上，只是使用空表达式作为no</span></td>
+            </tr>
+
+            <tr>
+                <td><span class="code">(?(name)yes|no)</span></td>
+                <td><span class="desc">如果命名为name的组捕获到了内容，使用yes作为表达式；否则使用no</span></td>
+            </tr>
+            <tr>
+                <td><span class="code">(?(name)yes)</span></td>
+                <td><span class="desc">同上，只是使用空表达式作为no</span></td>
+
+            </tr>
+        </tbody>
+    </table>
+
+    <h2 id="contact">联系作者</h2>
+    <p>好吧,我承认,我骗了你,读到这里你肯定花了不止30分钟.相信我,这是我的错,而不是因为你太笨.我之所以说"30分钟",是为了让你有信心,有耐心继续下去.既然你看到了这里,那证明我的阴谋成功了.被忽悠的感觉很爽吧？</p>
+    <p>要投诉我,或者觉得我其实可以忽悠得更高明,欢迎来<a href="http://weibo.com/deerchao/"><img src="../../images/weibo.png" alt="" />我的微博</a>让我知道. 如果你有关于正则表达式的问题, 可以到 <a href="http://www.stackoverflow.com"><img src="../../images/stackoverflow.png" alt=""/>stackoverflow</a> 网站上提问, 记得要添加 regex 标签. 如果你更习惯于用中文交流, 可以到微博上用 #正则# 标签提出问题.</p>
+
+    <h2 id="resources">网上的资源及本文参考文献</h2>
+    <ul>
+        <li><a href="http://item.jd.com/11070361.html">精通正则表达式（第3版）</a></li>
+        <li><a href="https://msdn.microsoft.com/zh-cn/library/hs600312.aspx">微软的正则表达式教程</a></li>
+        <li><a href="http://msdn2.microsoft.com/zh-cn/library/system.text.regularexpressions.regex.aspx">System.Text.RegularExpressions.Regex类(MSDN)</a></li>
+        <li><a href="http://www.regular-expressions.info/">专业的正则表达式教学网站(英文)</a></li>
+        <li><a href="http://weblogs.asp.net/whaggard/archive/2005/02/20/377025.aspx">关于.Net下的平衡组的详细讨论（英文）</a></li>
+    </ul>
+
+    <h2 id="updatelog">更新纪录</h2>
+    <div class="ad">
+        <script type="text/javascript"><!--
+    //<![CDATA[
+    google_ad_client = "ca-pub-1134642721173543";
+    /* Regex middle */
+    google_ad_slot = "4700826168";
+    google_ad_width = 300;
+    google_ad_height = 250;
+    //]]>
+        </script>
+        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+    </div>
+    <ol>
+        <li>2006-3-27 第一版</li>
+        <li>2006-10-12 第二版
+            <ul>
+                <li>修正了几个细节上的错误和不准确的地方</li>
+                <li>增加了对处理中文时的一些说明</li>
+                <li>更改了几个术语的翻译（采用了MSDN的翻译方式）</li>
+                <li>增加了平衡组的介绍</li>
+                <li>放弃了对The Regulator的介绍，改用Regex Tester</li>
+            </ul>
+        </li>
+        <li>2007-3-12 V2.1
+            <ul>
+1--2
+-0
+                <li>修正了几个小的错误</li>
+
+                <li>增加了对处理选项(RegexOptions)的介绍</li>
+            </ul>
+        </li>
+        <li>2007-5-28 V2.2
+            <ul>
+                <li>重新组织了对零宽断言的介绍</li>
+                <li>删除了几个不太合适的示例，添加了几个实用的示例</li>
+                <li>其它一些微小的更改</li>
+
+            </ul>
+        </li>
+        <li>2007-8-3 V2.21
+            <ul>
+                <li>修改了几处文字错误</li>
+                <li>修改/添加了对$,\b的精确说明</li>
+                <li>承认了作者是个骗子</li>
+                <li>给RegexTester添加了Singleline选项的相关功能</li>
+
+            </ul>
+        </li>
+        <li>2008-4-13 v2.3
+            <ul>
+                <li>调整了部分章节的次序</li>
+                <li>修改了页面布局，删除了专门的参考节</li>
+                <li>针对读者的反馈，调整了部分内容</li>
+            </ul>
+        </li>
+        <li>2009-4-11 v2.31
+            <ul>
+                <li>修改了几处文字错误</li>
+                <li>添加了一些注释说明</li>
+                <li>调整了一些措词</li>
+            </ul>
+        </li>
+        <li>2011-8-17 v2.32
+            <ul>
+                <li>更改了工具介绍，换用自行开发的正则表达式测试器</li>
+            </ul>
+        </li>
+        <li>2013-1-10 v2.33
+            <ul>
+                <li>说明包含前导0的IP地址是合法的</li>
+            </ul>
+        </li>
+    </ol>
+</body>
+</html>
+-020.00
+-25..04555.0200
+25.00
+50.00
+0900.00
+-0.020
+-1.2336000
+-2255.55555
+-002.5222
+-0.00002000
+
+<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/pics/vocabularyv03/&quot; l gen true for &quot;http://howstuffworks.com&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 1) gen true for &quot;http://computer.howstuffworks.com&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 1))" />
+<link rel="meta" type="application/rdf xml" href="http://computer.howstuffworks.com/labels.rdf" title="ICRA labels" />
+\b(\w+)\b\s+\1\b可以用来匹配重复的单词，像go go, 或者kitty kitty。这个表达式首先是一个单词，也就是单词开始处和结束处之间的多于一个的字母或数字(\b(\w+)\b)，这个单词会被捕获到编号为1的分组中，然后是1个或几个空白符(\s+)，最后是分组1中捕获的内容（也就是前面匹配的那个单词）(\1)。
+<link rel="canonical" href="http://computer.howstuffworks.com/computer-memory1.htm" />
+
+<script type="text/javascript">
+/* <![CDATA[ */
+window.HSW=window.HSW||{};HSW.contentInfo={contentId:"5301"};
+/* ]]> */
+</script>
+
+0\d{2}-\d{8}|0\d{3}-\d{7}这个表达式能匹配两种以连字号分隔的电话号码：一种是三位区号，8位本地号(如010-12345678)，一种是4位区号，7位本地号(0376-2233445)。
+
+<link href="http://www.howstuffworks.com/css/index/m/oo%252Freset.css%252Coo%252Fgrids.css%252Coo%252Fhsw%252Fall.css%252Coo%252Fplugin%252Fads.css%252Coo%252Fplugin%252Ftophat.css%252Coo%252Fplugin%252Fvendor%252Fss-social-circle.css%252Coo%252Fplugin%252FchannelNav.css%252Coo%252Fplugin%252Fbuttons.css%252Coo%252Fplugin%252FtocPagination.css%252Coo%252Fplugin%252Fstructured.css%252Coo%252Fplugin%252Fshare.css%252Coo%252Fplugin%252FpageTools.css%252Coo%252Fplugin%252FOutbrain.css%252Coo%252Fplugin%252FbelowContentWell.css%252Coo%252Fplugin%252FrightRail.css%252Coo%252Fplugin%252Ftabs.css%252Coo%252Fplugin%252Fpodcasts.css/s/hsw/v/en-us/r/10824" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://www.howstuffworks.com/js/index/m/jquery183.js%252Chsw-tlc.js%252Cmodal.js%252CpanelHover.js%252Csmartbanner.js%252Cnavigation.js%252CinView.js%252CdisplayImage.js%252Cui%252Ftabs.js%252Cjquery.tools.scrollable125.js/s/hsw/v/en-us/r/10824"></script>
+
+
+<script>
+//<![CDATA[
+var viewingEnvironment = "prod";
+
+//Detect and extract any SEM referral tracking data
+var semCookie = HSW.cookies.get('ws_hsw_rt'), semVars = {};
+if (semCookie) {
+	var varArr  = semCookie.value.split("&");
+	for (var i=0; i<varArr.length; i++) {
+		var pair = varArr[i].split("=");
+		semVars[pair[0]] = pair[1];
+	}
+}
+-012
+-12020000
+
+var pageMetricsData = {
+	org         : "hsw",
+	name        : "hsw",
+	id          : "hsw",
+	suites      : "hswprod,hswprodhsw",
+	country     : "",
+	state       : "",
+	zip         : "",
+	error       : "0",
+	url         : "http://computer.howstuffworks.com/computer-memory1.htm",
+	title       : "How Computer Memory Works",
+	tax         : "hsw/tech/computer/computer hardware/memory",
+	aType       : "Editorial Content",
+	cType       : "article-structured",
+	template    : "Article",
+	sType       : "",
+(010)12345678
+	search      : {},
+	content     : "",
+	sponsor     : "",
+不幸的是，刚才那个表达式也能匹配010)12345678或(022-87654321这样的“不正确”的格式。要解决这个问题，我们需要用到分枝条件。正则表达式里的分枝条件指的是有几种规则，如果满足其中任意一种规则都应该当成匹配，具体方法是用|把不同的规则分隔开。听不明白？没关系，看例子：
+
+0\d{2}-\d{8}|0\d{3}-\d{7}这个表达式能匹配两种以连字号分隔的电话号码：一种是三位区号，8位本地号(如010-12345678)，一种是4位区号，7位本地号(0376-2233445)。
+	source      : "HSW",
+	author      : "Jeff Tyson",
+	show        : "",
+	pubDate     : "2000-08-23",
+	uuid        : "5301",
+	model       : "article",
+	view        : "article/article.html" + (("undefined" !== typeof abTestId) ? "-ab-"+abTestId+"-"+abTestInstance : ""),
+	width       : "998",
+	page        : "1",
+	codebase    : 'hsw-legacy',
+	semSegment  : (typeof semVars['segment'] === 'undefined' ? '' : semVars['segment']),
+	abs         : ( HSW.cookies.exists('hsw_abs') ? HSW.cookies.get('hsw_abs').value : '' )
+};
+var GACtest = HSW.cookies.exists('hsw_abs') ? HSW.cookies.get('hsw_abs').value : '';
+//]]>
+</script>
+</head>
+	<body>
+<div id="fb-root"></div>
+<div class="bodyWrapper">	<!-- AD : DFP -->
+	<div id="page-ad-container-brandscape" class="ad-tag" style="display: none;"></div>
+			<div class="page pageArticle layout5">
+			<div class="header headerArticle">
+<div class="noScreen">
+</div>
+<div class="noPrint">
+  
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
+
+<div class="headerBack">
+</div>
+<div class="headerWrapper">
+  <div class="containerHSW">
+    <div class="rowHSW">
+
+ＩＰ大全（从追捕中找）2006-12-17 22:57
+010.179.000.000__010.183.255.255__甘肃____
+010.184.000.000__010.188.255.255__青海____
+010.189.000.000__010.193.255.255__宁夏____
+010.194.000.000__010.198.255.255__新疆____
+010.000.000.000__010.001.255.255__北京____
+010.003.048.000__010.003.050.255__北京邮电大学____
+010.011.017.000__010.013.064.255__天津____
+010.017.000.000__010.022.255.255__河北____
+010.023.000.000__010.028.255.255__山西____
+010.029.000.000__010.033.255.255__内蒙古____
+010.034.000.000__010.041.255.255__辽宁____
+010.042.000.000__010.049.255.255__吉林____
+010.048.000.000__010.051.255.255__黑龙江____
+010.052.000.000__010.061.255.255__湖北____
+010.062.000.000__010.067.255.255__湖南____
+010.074.000.000__010.081.255.255__江苏____
+010.082.000.000__010.088.255.255__山东____
+010.089.000.000__010.094.255.255__安徽____
+010.103.000.000__010.109.255.255__浙江____
+010.110.000.000__010.116.255.255__福建____
+010.117.000.000__010.122.255.255__江西____
+010.123.000.000__010.130.255.255__广东____
+010.131.000.000__010.136.255.255__海南____
+010.137.000.000__010.142.255.255__广西____
+010.143.000.000__010.149.255.255__四川____
+010.157.000.000__010.161.255.255__贵州____
+010.162.000.000__010.166.255.255__云南____
+010.172.000.000__010.178.255.255__陕西____
+010.167.000.000__010.171.255.255__西藏____
+010.068.000.000__010.073.255.255__河南____
+010.199.000.000__010.253.255.255__香港____
+010.095.000.000__010.102.255.255__上海____
+010.002.000.000__010.009.255.255__北京____
+010.150.000.000__010.156.255.255__重庆____
+010.000.000.000__010.255.255.255__未知地区____
+
+202.113.216.000__202.113.223.255__天津美术学院____
+202.113.224.000__202.113.239.255__南开大学____
+202.113.242.000__202.113.243.255__天津经济技术开发区国际学校____
+202.113.244.000__202.113.245.255__天津市第一中学____
+202.113.248.000__202.113.255.255__中国医学科学院____
+202.114.000.000__202.114.031.255__华中理工大学____
+202.114.032.000__202.114.047.255__华中师范大学____
+202.114.045.000__202.114.045.255__华中师范大学第一附属中学____
+202.114.048.000__202.114.063.255__武汉汽车工业大学____
+202.114.064.000__202.114.079.255__武汉大学____
+202.114.080.000__202.114.095.255__武汉工业大学____
+202.114.096.000__202.114.111.255__武汉水利水电大学____
+202.114.112.000__202.114.127.255__武汉测绘科技大学____
+202.114.128.000__202.114.143.255__同济医药大学____
+202.114.144.000__202.114.159.255__湖北大学____
+202.114.160.000__202.114.175.255__武汉交通科技大学____
+202.114.176.000__202.114.191.255__湖北工业大学____
+202.114.192.000__202.114.207.255__中国地质大学____
+202.114.208.000__202.114.211.255__武汉邮电研究所____
+202.114.212.000__202.114.215.255__华中理工大学____
+202.114.216.000__202.114.223.255__襄樊大学____
+202.114.224.000__202.114.239.255__中南财经大学____
+202.114.240.000__202.114.255.255__武汉科技大学____
+202.115.000.000__202.115.031.255__电子科技大学____
+202.115.032.000__202.115.047.255__四川联合大学____
+202.115.048.000__202.115.063.255__成都科技大学____
+202.115.064.000__202.115.079.255__西南交通大学____
+202.115.080.000__202.115.095.255__成都大学____
+202.115.096.000__202.115.111.255__华西医科大学
+
+202.115.112.000__202.115.127.255__西南财经大学____
+202.115.128.000__202.115.143.255__成都理工学院____
+202.115.144.000__202.115.159.255__四川工业学院____
+202.115.160.000__202.115.175.255__西南工学院____
+202.115.176.000__202.115.191.255__四川农业大学____
+202.115.192.000__202.115.207.255__四川师范大学____
+202.115.208.000__202.115.255.255__四川____
+202.116.000.000__202.116.031.255__广州暨南大学____
+202.116.032.000__202.116.047.255__华南师范大学____
+202.116.048.000__202.116.063.255__广东商学院____
+202.116.064.000__202.116.095.255__中山大学____
+202.116.096.000__202.116.111.255__孙中山医科大学____
+202.116.112.000__202.116.127.255__中山医科大学____
+202.116.128.000__202.116.143.255__广东工学院____
+202.116.144.000__202.116.159.255__广东机械工程学院____
+202.116.160.000__202.116.175.255__华南农业大学____
+202.116.176.000__202.116.191.255__华南农业大学____
+202.116.192.000__202.116.207.255__广东外语外贸大学____
+202.116.208.000__202.116.223.255__广州外贸学院____
+202.116.224.000__202.116.239.255__广东____
+202.116.240.000__202.116.255.255__海南师范大学____
+202.117.000.000__202.117.063.255__西安交通大学____
+202.117.064.000__202.117.079.255__西安公路大学____
+202.117.080.000__202.117.095.255__西北工业大学____
+202.117.096.000__202.117.111.255__西北大学____
+202.117.112.000__202.117.127.255__西安电子科技大学____
+202.117.128.000__202.117.143.255__西安邮电学院____
+202.117.144.000__202.117.159.255__陕西师范大学____
+202.117.160.000__202.117.175.255__西安医科大学____
+202.117.176.000__202.117.191.255__西北农业大学____
+202.117.192.000__202.117.199.255__陕西教育学院____
+202.117.200.000__202.117.207.255__陕西财经学院____
+202.117.208.000__202.117.223.255__西北师范大学____
+202.117.224.000__202.117.227.255__西安电力高等专科学校____
+202.117.228.000__202.117.231.255__陕西信息安全技术研究所____
+202.117.232.000__202.117.239.255__西北税务学校____
+202.118.000.000__202.118.031.255__东北大学____
+202.118.032.000__202.118.039.255__沈阳技术研究所____
+202.118.040.000__202.118.047.255__中国医药大学____
+202.118.048.000__202.118.063.255__辽宁大学____
+202.118.064.000__202.118.079.255__大连理工大学____
+202.118.080.000__202.118.095.255__大连海事大学____
+202.118.112.000__202.118.115.255__辽宁东北育才中学____
+202.118.116.000__202.118.119.255__沈阳电力学院____
+202.118.120.000__202.118.127.255__抚顺石油学院____
+202.118.128.000__202.118.143.255__哈尔滨师范大学____
+202.118.144.000__202.118.159.255__黑龙江省科委____
+202.118.160.000__202.118.167.255__东北农业大学____
+202.118.168.000__202.118.171.255__黑龙江____
+202.118.176.000__202.118.191.255__哈尔滨工程大学____
+202.118.192.000__202.118.207.255__哈尔滨理工大学____
+202.118.208.000__202.118.223.255__东北林业大学____
+202.118.224.000__202.118.239.255__哈尔滨工业大学____
+202.119.000.000__202.119.031.255__石油大学____
+202.119.032.000__202.119.063.255__南京大学____
+202.119.064.000__202.119.079.255__南京航空航天大学____
+202.119.080.000__202.119.095.255__南京理工大学____
+202.119.096.000__202.119.111.255__南京师范大学____
+202.119.112.000__202.119.127.255__河海大学____
+202.119.128.000__202.119.131.255__江苏
+
+202.119.132.000__202.119.132.255__常州刘国钧职业教育中心____
+202.119.133.000__202.119.133.255__南京晓庄师范学校____
+202.119.134.000__202.119.135.255__江苏____
+202.119.136.000__202.119.143.255__盐城工学院____
+202.119.144.000__202.119.159.255__南京铁道医学院____
+202.119.160.000__202.119.167.255__南京电力高等专科学校____
+202.119.168.000__202.119.171.255__江苏省常州工业学校____
+202.119.172.000__202.119.175.255__江苏省教育委员会____
+202.119.176.000__202.119.191.255__中国药科大学____
+202.119.192.000__202.119.207.255__中国矿业大学____
+202.119.208.000__202.119.223.255__南京林业大学____
+202.119.224.000__202.119.239.255__南京邮电大学____
+202.119.240.000__202.119.255.255__南京化工大学____
+202.120.000.000__202.120.063.255__上海交通大学____
+202.120.064.000__202.120.079.255__上海医药大学____
+202.120.080.000__202.120.095.255__华东师范大学____
+202.120.096.000__202.120.111.255__华东理工大学____
+202.120.112.000__202.120.127.255__上海大学____
+202.120.128.000__202.120.143.255__上海第二医药大学____
+202.120.144.000__202.120.159.255__中国纺织大学____
+202.120.160.000__202.120.175.255__上海铁道大学____
+202.120.176.000__202.120.191.255__同济大学____
+202.120.192.000__202.120.203.255__上海____
+202.120.204.000__202.120.207.255__华东理工大学石油化工学院____
+202.120.208.000__202.120.223.255__华东工业大学____
+202.120.224.000__202.120.255.255__复旦大学____
+202.121.000.000__202.121.015.255__上海____
+202.121.020.000__202.121.023.255__上海公安高等专科学校____
+202.121.028.000__202.121.031.255__上海海关高等专科学校____
+202.121.032.000__202.121.047.255__上海中医药大学____
+202.121.048.000__202.121.063.255__上海师范大学____
+202.121.064.000__202.121.079.255__上海水产大学____
+202.121.080.000__202.121.095.255__上海电视大学____
+202.121.096.000__202.121.111.255__上海国际研究大学____
+202.121.112.000__202.121.127.255__上海工程大学____
+202.121.128.000__202.121.143.255__上海财经大学____
+202.121.144.000__202.121.147.255__上海纺织高等专科学校____
+202.121.148.000__202.121.151.255__上海市教育考试院____
+202.121.160.000__202.121.167.255__华东政法学院____ 
+        <div class="logoHSW fleft">
+          <a href="http://www.howstuffworks.com"><img src="http://s.hswstatic.com/en-us/hsw/img/logo.png" ></a>
+        </div>
+        <div class="sectionLogo fleft">
+						<p class="logo text-uppercase hidden-xs">How<span class="logo-alt">Stuff</span>Works</p>
+						<p class="channel-name text-uppercase">Computer</p>
+        </div>
+        <div id="socialFollowSection" class="hidden-xs" data-track-gtm="Social Follow">
+            <p class="followText">Follow us</p>
+            <p><a class="symbol ss-social-circle ss-facebook" href="http://www.facebook.com/HowStuffWorks" target="_blank"></a></p>
+            <p><a class="symbol ss-social-circle ss-youtube" href="http://www.youtube.com/user/HowStuffWorks?sub_confirmation=1" target="_blank"></a></p>
+            <p><a class="symbol ss-social-circle ss-twitter" href="http://twitter.com/intent/follow?source=followbutton&amp;variant=1.0&amp;screen_name=HowStuffWorks" target="_blank"></a></p>
+            <p><a class="symbol ss-social-circle ss-pinterest" href="https://www.pinterest.com/HowStuffWorks/" target="_blank"></a></p>
+        </div>
+        <div class="searchBarHSW fleft">
+          <form action="/search.php" class="searchFormHSW fleft">
+            <span class="headerInput fleft"><input type="text" placeholder="SEARCH" name="terms" class="headerInputBox">
+                <input type="submit" value="&#xf002;" class="headerInputButton">
+            </span>
+          </form>
+        </div>
+    </div>
+  </div>
+</div>
+<div style="clear:both;"></div>
+
+<div id="hswTopChannelNavigation" class="channelNavigation">
+	<div class="channelNavigation" id="hswTopChannelNavigation">
+<ul class="line">
+<li class="unit"><a class="navLink " href="http://adventure.howstuffworks.com/"  omni="How Computer Memory Works : Level 1 Nav : Adventure">Adventure</a></li>
+<li class="unit"><a class="navLink " href="http://animals.howstuffworks.com/"  omni="How Computer Memory Works : Level 1 Nav : Animals">Animals</a></li>
+<li class="unit"><a class="navLink " href="http://auto.howstuffworks.com/"  omni="How Computer Memory Works : Level 1 Nav : Auto">Auto</a></li>
+<li class="unit"><a class="navLink " href="http://people.howstuffworks.com/culture"  omni="How Computer Memory Works : Level 1 Nav : Culture">Culture</a></li>
+<li class="unit"><a class="navLink " href="http://entertainment.howstuffworks.com/"  omni="How Computer Memory Works : Level 1 Nav : Entertainment">Entertainment</a></li>
+<li class="unit"><a class="navLink " href="http://health.howstuffworks.com/"  omni="How Computer Memory Works : Level 1 Nav : Health">Health</a></li>
+<li class="unit"><a class="navLink " href="http://home.howstuffworks.com/"  omni="How Computer Memory Works : Level 1 Nav : Home & Garden">Home &amp; Garden</a></li>
+<li class="unit"><a class="navLink " href="http://lifestyle.howstuffworks.com/"  omni="How Computer Memory Works : Level 1 Nav : Lifestyle">Lifestyle</a></li>
+<li class="unit"><a class="navLink " href="http://money.howstuffworks.com/"  omni="How Computer Memory Works : Level 1 Nav : Money">Money</a></li>
+<li class="unit"><a class="navLink " href="http://science.howstuffworks.com/"  omni="How Computer Memory Works : Level 1 Nav : Science">Science</a></li>
+<li class="unit"><a class="navLink catActive" href="http://electronics.howstuffworks.com/tech"  omni="How Computer Memory Works : Level 1 Nav : Tech">Tech</a></li>
+<li class="unit"><a class="navLink navLinkAlt"  omni="How Computer Memory Works : Menu : Pos 1  : Extra Links" href="http://videos.howstuffworks.com/">Video</a></li>
+<li class="unit"><a class="navLink navLinkAlt"  omni="How Computer Memory Works : Menu : Pos 2  : Extra Links" href="http://www.howstuffworks.com/hsw-podcast.htm">Shows</a></li>
+<li class="unit"><a class="navLink navLinkAlt"  omni="How Computer Memory Works : Menu : Pos 4  : Extra Links" href="http://people.howstuffworks.com/quizzes.htm">Quizzes</a></li>
+</ul>
+</div>
+</div>
+不幸的是，它也将匹配256.300.888.999这种
+<script>
+  var googleAdsSuppress = '';
+</script>  	<!-- AD : DFP -->
+	<div id="page-ad-container-bannerTop" class="ad-tag" style="display: none;"></div>
+	</div>
+    字符串 2009
+    周曙光同学有两个名字, 分别叫做 zola 和 zuola, 人们常常混淆. 请帮周曙光同学设计一个正则表达式, 可以帮他匹配自己的名字.
+    二进制数字 (最少有一位, 但只含有 0 或者 1的)
+    非零的十进制数字 (有至少一位数字, 但是不能以0开头)
+
+			</div>
+			<div class="body bodyArticle">
+				<div class="bodyHeader bodyHeaderArticle">
+	<div id="HeaderHolder" class="left">
+		<div class="left titleBreadCrumbs">
+			<div id="BreadCrumb" class="module"> 
+	<div class="inner">
+		<div class="bd">
+			<ul class="inlineChildren font7">
+	<li><a href="http://www.howstuffworks.com/"  omni="How Computer Memory Works : Breadcrumb : Home">Home</a>&nbsp;/&nbsp;</li>
+	<li><a href="http://electronics.howstuffworks.com/tech"  omni="How Computer Memory Works : Breadcrumb : Tech">Tech</a>&nbsp;/&nbsp;</li>
+	<li><a href="http://computer.howstuffworks.com/"  omni="How Computer Memory Works : Breadcrumb : Computer">Computer</a>&nbsp;/&nbsp;</li>
+	<li><a href="http://computer.howstuffworks.com/computer-hardware-channel.htm"  omni="How Computer Memory Works : Breadcrumb : Computer Hardware">Computer Hardware</a>&nbsp;/&nbsp;</li>
+	<li><a href="http://computer.howstuffworks.com/computer-ram-memory-channel.htm"  omni="How Computer Memory Works : Breadcrumb : Memory">Memory</a></li>
+</ul>
+		</div>
+	</div>
+</div>
+					</div>
+	</div>
+	<div id="HeaderTitle">
+		<div id="Title" class="left">
+			<div class="title"><h1 class="articleTitle">
+How Computer Memory Works</h1><p class='articleByLine'>by <a href='author-tyson.htm' rel='author'>Jeff Tyson</a></p></div>
+		</div>
+
+		<div class="right adHolder">
+				<!-- AD : DFP -->
+	<div id="page-ad-container-entitlementRailTop" class="ad-tag" style="display: none;"></div>
+			</div>
+	</div>
+	<div style="clear: both;"></div>
+				</div>
+				<div class="main mainArticle">
+
+
+
+<script type="text/javascript">
+var addthis_share = {
+   url: "http://computer.howstuffworks.com/computer-memory.htm",
+   title: "How Computer Memory Works"
+}
+
+</script><script type="text/javascript"src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5457ca106d18d8e5"async="async"></script>
+
+<div class="article" id="article">
+
+			<style>
+		#root{
+			width:60px;
+		}
+	</style>
+	<div class="pagination tocPagination ShareBorderOff">
+
+				<li class="font7 marginVertical3 pagelink">
+					<a  href='http://computer.howstuffworks.com/computer-memory.htm'  omni="How Computer Memory Works : Previous : Top : Page 1">
+						<img src="http://static.howstuffworks.com/gif/hsw-article-keep-reading-short-button-left.png" height="20px" style="position:relative; top:4px;"/>
+					</a>
+				</li>
+							<li class=" font7 marginVertical3 fadedText">
+					Page
+				</li>
+						<li class="font7 marginVertical3 pagelink">
+					<a position="top" href="http://computer.howstuffworks.com/computer-memory.htm"  omni="How Computer Memory Works : TOC Top : Page 1">1</a>
+						<div class="pageOverlay" id='pageOverlay1' style="border-radius: 10px;">
+							<table width="100%" height="100%">
+								<td valign="center"><div class="overlayText1">Introduction to How Computer Memory Works</div></td>
+
+							</table>
+
+						</div>
+				</li>
+							<li class="font7 marginVertical3 pagelink">
+					<a position="top" class="colorText1" href="http://computer.howstuffworks.com/computer-memory1.htm"  omni="How Computer Memory Works : TOC Top : Page 1">2</a>
+						<div class="pageOverlay" id='pageOverlay2' style="border-radius: 10px;">
+							<table width="100%" height="100%">
+								<td valign="center"><div class="overlayText2">Computer Memory Basics</div></td>
+
+							</table>
+
+						</div>
+				</li>
+							<li class="font7 marginVertical3 pagelink">
+					<a position="top" href="http://computer.howstuffworks.com/computer-memory2.htm"  omni="How Computer Memory Works : TOC Top : Page 1">3</a>
+						<div class="pageOverlay" id='pageOverlay3' style="border-radius: 10px;">
+							<table width="100%" height="100%">
+								<td valign="center"><div class="overlayText3">Types of Computer Memory</div></td>
+
+							</table>
+
+						</div>
+				</li>
+							<li class="font7 marginVertical3 pagelink">
+					<a position="top" href="http://computer.howstuffworks.com/computer-memory3.htm"  omni="How Computer Memory Works : TOC Top : Page 1">4</a>
+						<div class="pageOverlay" id='pageOverlay4' style="border-radius: 10px;">
+							<table width="100%" height="100%">
+								<td valign="center"><div class="overlayText4">System RAM</div></td>
+
+							</table>
+
+						</div>
+				</li>
+							<li class="font7 marginVertical3 pagelink">
+					<a  href="http://computer.howstuffworks.com/computer-memory2.htm"   omni="How Computer Memory Works : Next : Top : Page 1">
+						<img src="http://static.howstuffworks.com/gif/hsw-article-keep-reading-short-button.png" height="20px" style="position:relative; top:4px;"/>
+					</a>
+				</li>
+
+					</div>
+
+	<div id="ArticleWell" class="module structured articleBody moduleHeader2 articlePageTitle marginClearBottom"> 
+	<div class="inner">
+		<div class="bd">
+			<!-- dtl_id= //-->
+
+<div class="line pageBreak">
+	<div class="inset left marginRight1 marginBottom1 imageInset" style="width: 400px;">
+
+
+<div class="media mediaVertical">
+	<span class="img">
+		<img src="http://s.hswstatic.com/gif/computer-memory-pyramid.gif" alt="How Computer Memory Works" title="Virtual memory provides a big benefit to users at a very low cost. Learn about virtual memory, how your computer uses virtual memory and how to configure virtual memory." style="width:400px;height:327px;" />
+			</span>
+	<div class="bd">
+			</div>
+</div>
+
+	</div>
+
+
+	<div id="inject1-0" class="injectAdSmallInset insetSecond"  style="margin-top: -25px; width: 436px;"><div id="googleAdBottom005" class="adModule googleAdBottom005"></div>
+</div>
+
+
+	<div class="content">
+<h2 class="articlePageTitle">Computer Memory Basics</h2>
+<p>Although memory is technically any form of electronic storage, it is used most often to identify fast, temporary forms of storage. If your computer's <a href="http://computer.howstuffworks.com/microprocessor.htm">CPU</a> had to constantly access the <a href="http://computer.howstuffworks.com/hard-disk.htm">hard drive</a> to retrieve every piece of data it needs, it would operate very slowly. When the information is kept in memory, the CPU can access it much more quickly. Most forms of memory are intended to store data temporarily.</p><p>As you can see in the diagram above, the CPU accesses memory according to a distinct hierarchy. Whether it comes from permanent storage (the hard drive) or input (the <a href="http://computer.howstuffworks.com/keyboard.htm">keyboard</a>), most data goes in <strong>random access memory</strong> (<a href="http://computer.howstuffworks.com/ram.htm">RAM</a>) first. The CPU then stores pieces of data it will need to access, often in a <strong>cache</strong>, and maintains certain special instructions in the <strong>register</strong>. We'll talk about cache and registers later.</p><p>All of the components in your computer, such as the CPU, the hard drive and the <a href="http://computer.howstuffworks.com/operating-system.htm">operating system</a>, work together as a team, and memory is one of the most essential parts of this team. From the moment you turn your computer on until the time you shut it down, your CPU is constantly using memory. Let's take a look at a typical scenario:</p><ul><li>You turn the computer on.</li><li>The computer loads data from <strong>read-only memory</strong> (<a href="http://computer.howstuffworks.com/rom.htm">ROM</a>) and performs a <strong>power-on self-test</strong> (POST) to make sure all the major components are functioning properly. As part of this test, the <strong>memory controller</strong> checks all of the memory addresses with a quick <strong>read/write</strong> operation to ensure that there are no errors in the memory chips. Read/write means that data is written to a <a href="http://computer.howstuffworks.com/bytes2.htm">bit</a> and then read from that bit.</li><li>The computer loads the <strong>basic input/output system</strong> (<a href="http://computer.howstuffworks.com/bios.htm">BIOS</a>) from ROM. The BIOS provides the most basic information about storage devices, boot sequence, security, <strong>Plug and Play</strong> (auto device recognition) capability and a few other items.</li><li>The computer loads the <strong>operating system</strong> (OS) from the hard drive into the system's RAM. Generally, the critical parts of the <a href="http://computer.howstuffworks.com/operating-system.htm">operating system</a> are maintained in RAM as long as the computer is on. This allows the CPU to have immediate access to the operating system, which enhances the performance and functionality of the overall system.</li><li>When you open an <strong>application</strong>, it is loaded into <a href="http://computer.howstuffworks.com/ram.htm">RAM</a>. To conserve RAM usage, many applications load only the essential parts of the program initially and then load other pieces as needed.</li><li>After an application is loaded, any <strong>files</strong> that are opened for use in that application are loaded into RAM.</li><li>When you <strong>save</strong> a file and <strong>close</strong> the application, the file is written to the specified storage device, and then it and the application are purged from RAM.</li></ul><p>­In the list above, every time something is loaded or opened, it is placed into RAM. This simply means that it has been put in the computer's <strong>temporary storage area</strong> so that the CPU can access that information more easily. The CPU requests the data it needs from RAM, processes it and writes new data back to RAM in a <strong>continuous cycle</strong>. In most computers, this shuffling of data between the CPU and RAM happens millions of times every second. When an application is closed, it and any accompanying files are usually <strong>purged</strong> (deleted) from RAM to make room for new data. If the changed files are not saved to a permanent storage device before being purged, they are lost.</p><p>One common question about desktop computers that comes up all the time is, &quot;Why does a computer need so many memory systems?&quot;</p>	</div>
+</div>
+		</div>
+	</div>
+</div>
+
+	
+
+		<div class="pagination tocPaginationBottom">
+		<div class="line share marginBottom1 marginLeft1">
+	<div id="sharePrint0" class="widget widgetPrint">
+		<a class="pageTool spritePrintIcon" id="hpprint" href="http://computer.howstuffworks.com/computer-memory1.htm/printable"  omni="How Computer Memory Works : Print : Page 1">Print</a>
+	</div>
+	<div id="shareCite0" class="widget widgetCite">
+		<div class="citeButton pageTool spriteCiteIconArticle" style="display: inline;"  omni="How Computer Memory Works : Cite : Page 1">
+	<div class="citationContainer" style="white-space: normal;">
+		<div class="headBar clear">
+			<div class="label">Cite This!</div>
+			<div class="close">
+				<a onclick="$('.citeButton').click();" id="citeCloseButton" href="#">Close&nbsp;<img src="http://s.hswstatic.com/en-us/default/icons/icon_close.gif" /></a>
+			</div>
+		</div>
+		<div class="citation">
+			<span class="howTo">Please copy/paste the following text to properly cite this HowStuffWorks article:</span><br><br>
+<div class="text">
+Tyson, Jeff.&nbsp; "How Computer Memory Works"&nbsp; 23 August 2000.&nbsp; HowStuffWorks.com. &lt;http://computer.howstuffworks.com/computer-memory.htm&gt; &nbsp;05 October 2015.</div>
+		</div>
+	</div>
+	<div class="citeLink inline colorText2">Citation & Date</div>
+</div>
+	</div>
+	<div id="shareFeedback0" class="widget widgetFeedback">
+		<a class="pageTool spriteFeedbackIcon2" href="/rate.htm?id=%2Fcomputer-memory1.htm&amp;random=5301"  omni="How Computer Memory Works : Feedback : Page 1">Feedback</a>
+	</div>
+</div>
+
+				<li class="font7 marginVertical3 pagelink">
+					<a  href='http://computer.howstuffworks.com/computer-memory.htm'  omni="How Computer Memory Works : Previous : Bottom : Page 1">
+						<img src="http://static.howstuffworks.com/gif/hsw-article-keep-reading-short-button-left.png" height="20px" style="position:relative; top:4px;"/>
+					</a>
+
+
+				</li>
+							<li class=" font7 marginVertical3 fadedText">
+					Page
+				</li>
+					<li class="font7 marginVertical3 pagelink">
+					<a position="bottom" href="http://computer.howstuffworks.com/computer-memory.htm"  omni="How Computer Memory Works : TOC Bottom : Page 1">1</a>
+						<div class="pageOverlay" id='pageOverlayBottom1' style="border-radius: 10px;">
+							<table width="100%" height="100%">
+								<td valign="center"><div class="overlayTextBottom1">Introduction to How Computer Memory Works</div></td>
+
+							</table>
+
+						</div>
+				</li>
+						<li class="font7 marginVertical3 pagelink">
+					<a position="bottom" class="colorText1" href="http://computer.howstuffworks.com/computer-memory1.htm"  omni="How Computer Memory Works : TOC Bottom : Page 1">2</a>
+						<div class="pageOverlay" id='pageOverlayBottom2' style="border-radius: 10px;">
+							<table width="100%" height="100%">
+								<td valign="center"><div class="overlayTextBottom2">Computer Memory Basics</div></td>
+
+							</table>
+
+						</div>
+				</li>
+						<li class="font7 marginVertical3 pagelink">
+					<a position="bottom" href="http://computer.howstuffworks.com/computer-memory2.htm"  omni="How Computer Memory Works : TOC Bottom : Page 1">3</a>
+						<div class="pageOverlay" id='pageOverlayBottom3' style="border-radius: 10px;">
+							<table width="100%" height="100%">
+								<td valign="center"><div class="overlayTextBottom3">Types of Computer Memory</div></td>
+
+							</table>
+
+						</div>
+				</li>
+						<li class="font7 marginVertical3 pagelink">
+					<a position="bottom" href="http://computer.howstuffworks.com/computer-memory3.htm"  omni="How Computer Memory Works : TOC Bottom : Page 1">4</a>
+						<div class="pageOverlay" id='pageOverlayBottom4' style="border-radius: 10px;">
+							<table width="100%" height="100%">
+								<td valign="center"><div class="overlayTextBottom4">System RAM</div></td>
+
+							</table>
+
+						</div>
+				</li>
+						<li class="font7 marginVertical3 pagelink">
+					<a position="bottom" href="http://computer.howstuffworks.com/computer-memory4.htm"  omni="How Computer Memory Works : TOC Bottom : Page 1">5</a>
+						<div class="pageOverlay" id='pageOverlayBottom5' style="border-radius: 10px;">
+							<table width="100%" height="100%">
+								<td valign="center"><div class="overlayTextBottom5">Cache and Registers</div></td>
+
+							</table>
+
+						</div>
+				</li>
+						<li class="font7 marginVertical3 pagelink">
+					<a position="bottom" href="http://computer.howstuffworks.com/computer-memory5.htm"  omni="How Computer Memory Works : TOC Bottom : Page 1">6</a>
+						<div class="pageOverlay" id='pageOverlayBottom6' style="border-radius: 10px;">
+							<table width="100%" height="100%">
+								<td valign="center"><div class="overlayTextBottom6">Lots More Information</div></td>
+
+							</table>
+
+						</div>
+				</li>
+							<li class="font7 marginVertical3 pagelink">
+					<a  href="http://computer.howstuffworks.com/computer-memory2.htm"   omni="How Computer Memory Works : Next : Bottom : Page 1">
+						<img src="http://static.howstuffworks.com/gif/hsw-article-keep-reading-long-button.png" height="20px" style="position:relative; top:4px;"/>
+					</a>
+				</li>
+				</div>
+
+
+
+<div id="googleAdBottom002" class="adModule googleAdBottom002"></div>
+
+	<div id="adsOutbrain">
+			<div id="Outbrain" class="module">
+	    <div class="inner" >
+	        <div>
+	            <div class="hd">
+	                <span class="modTitle2">More To Explore</span>
+	            </div>
+	            <div class="bd">
+									<div class="OUTBRAIN bl-outbrain" data-src="http://computer.howstuffworks.com/computer-memory1.htm" data-widget-id="AR_1" data-ob-template="howstuffworks"></div>
+	            </div>
+	        </div>
+	    </div>
+	</div>
+
+<script>
+
+var widgetLoadEvents = widgetLoadEvents || [];
+widgetLoadEvents.push({
+  url         : location.pathname + location.hash,
+  event       : "object-load",
+  eventAction : "outbrain-widget",
+  eventLabel  : "outbrain_AR_1"
+});
+
+</script>
+
+	</div>
+</div>
+
+
+		
+	<div id="BelowContentWell0" class="BelowContentWell module"> 
+	<div class="inner">
+		<div class="hd">
+			<span class="modTitle2">Popular Tech Topics</span>		</div>
+		<div class="bd">
+			<div class="line">
+	<div class="unit">
+<div class="media mediaVertical">
+	<a class="img" href="http://computer.howstuffworks.com/computer-history-quiz.htm">
+		<img src="http://s.hswstatic.com/gif/spacer.gif" data-src="http://s.hswstatic.com/gif/computer-history-quiz-100x6.jpg" alt="Mac, ENIAC or UNIVAC: The Computer History Quiz" class="image3 lazy" />
+			</a>
+	<div class="bd">
+		<div class="bold font7 textCenter"><a href="http://computer.howstuffworks.com/computer-history-quiz.htm">Mac, ENIAC or UNIVAC: The Computer History Quiz</a></div>	</div>
+</div>
+	</div>
+	<div class="unit">
+<div class="media mediaVertical">
+	<a class="img" href="http://electronics.howstuffworks.com/tech-myths/5-myths-about-the-internet.htm">
+		<img src="http://s.hswstatic.com/gif/spacer.gif" data-src="http://s.hswstatic.com/gif/5-myths-about-internet-100x60.jpg" alt="Top 5 Myths About the Internet" class="image3 lazy" />
+			</a>
+	<div class="bd">
+		<div class="bold font7 textCenter"><a href="http://electronics.howstuffworks.com/tech-myths/5-myths-about-the-internet.htm">Top 5 Myths About the Internet</a></div>	</div>
+</div>
+	</div>
+	<div class="unit">
+<div class="media mediaVertical">
+	<a class="img" href="http://electronics.howstuffworks.com/how-to-tech/how-to-connect-computer-to-tv.htm">
+		<img src="http://s.hswstatic.com/gif/spacer.gif" data-src="http://s.hswstatic.com/gif/connect-computer-to-tv-100x60.jpg" alt="How to Connect Your Computer to Your TV" class="image3 lazy" />
+			</a>
+	<div class="bd">
+		<div class="bold font7 textCenter"><a href="http://electronics.howstuffworks.com/how-to-tech/how-to-connect-computer-to-tv.htm">How to Connect Your Computer to Your TV</a></div>	</div>
+</div>
+	</div>
+	<div class="unit">
+<div class="media mediaVertical">
+	<a class="img" href="http://electronics.howstuffworks.com/capacitor.htm">
+		<img src="http://s.hswstatic.com/gif/spacer.gif" data-src="http://s.hswstatic.com/gif/capacitor-100x60.jpg" alt="How Capacitors Work" class="image3 lazy" />
+			</a>
+	<div class="bd">
+		<div class="bold font7 textCenter"><a href="http://electronics.howstuffworks.com/capacitor.htm">How Capacitors Work</a></div>	</div>
+</div>
+	</div>
+	<div class="unit unitLast">
+<div class="media mediaVertical">
+	<a class="img" href="http://computer.howstuffworks.com/cloud-computing/cloud-computing.htm">
+		<img src="http://s.hswstatic.com/gif/spacer.gif" data-src="http://s.hswstatic.com/gif/cloud-computing-100x60.jpg" alt="How Cloud Computing Works" class="image3 lazy" />
+			</a>
+	<div class="bd">
+		<div class="bold font7 textCenter"><a href="http://computer.howstuffworks.com/cloud-computing/cloud-computing.htm">How Cloud Computing Works</a></div>	</div>
+</div>
+	</div>
+</div>
+<div class="line">
+	<div class="right bold marginTop1">
+		<a href="http://videos.howstuffworks.com/computer">Take a look at Computer Videos</a>	</div>
+</div>
+		</div>
+	</div>
+</div>
+	<div id="YouMightAlsoLike1" class="YouMightAlsoLike module moduleHeader1"> 
+	<div class="inner">
+		<div class="hd">
+			<span class="modTitle2">You Might Also Like</span>		</div>
+		<div class="bd">
+			<div class="line" id="YouMightAlsoLike1RightColumn">
+	<div class="unit size2of3">
+		<div class="paddingRight2">
+<div class="media paddingBottom2">
+	<a class="img" href="http://computer.howstuffworks.com/secure-digital-memory-cards.htm"  omni="How Computer Memory Works : You Might Also Like : Pos 1  : Image">
+		<img src="http://s.hswstatic.com/gif/spacer.gif" data-src="http://s.hswstatic.com/gif/sd-card-100x60.jpg" class="image3 lazy" />
+			</a>
+	<div class="bd">
+		<a class="bold" href="http://computer.howstuffworks.com/secure-digital-memory-cards.htm"  omni="How Computer Memory Works : You Might Also Like : Pos 1  : Title">How Secure Digital Memory Cards Work</a><p class="marginClearVertical">Secure Digital cards are versatile, easy to use and found in all kinds of portable electronics. How do these tiny flash memory devices hold so much information?</p>	</div>
+</div>
+<div class="media paddingTop2">
+	<a class="img" href="http://computer.howstuffworks.com/how-wireless-mesh-networks-work.htm"  omni="How Computer Memory Works : You Might Also Like : Pos 2  : Image">
+		<img src="http://s.hswstatic.com/gif/spacer.gif" data-src="http://s.hswstatic.com/gif/wireless-mesh-networks.gif" class="image3 lazy" />
+			</a>
+	<div class="bd">
+		<a class="bold" href="http://computer.howstuffworks.com/how-wireless-mesh-networks-work.htm"  omni="How Computer Memory Works : You Might Also Like : Pos 2  : Title">How Wireless Mesh Networks Work</a><p class="marginClearVertical">Wireless mesh networks promise to deliver high-speed Internet connectivity anywhere, anytime. Find out more about this exciting technology.</p>	</div>
+</div>
+		</div>
+	</div>
+	<div class="unit size1of3 unitLast">
+		<div class="borderLeft1 paddingHorizontal2">
+<div id="PopularArticles0" class="PopularArticles module module1 moduleHeader2"> 
+	<div class="inner">
+		<div class="hd">
+			<span class="modTitle2">Popular Articles</span>		</div>
+		<div class="bd">
+			<ul class="bold">
+	<li class="paddingBottom3"><a href="http://computer.howstuffworks.com/holographic-memory.htm"  omni="How Computer Memory Works : You Might Also Like : Popular Articles : Pos 1 " >How Holographic Memory Will Work</a></li>
+	<li class="paddingBottom3"><a href="http://computer.howstuffworks.com/build-private-wifi-network.htm"  omni="How Computer Memory Works : You Might Also Like : Popular Articles : Pos 2 " >What do you need to build a private WiFi network?</a></li>
+	<li><a href="http://computer.howstuffworks.com/netbook.htm"  omni="How Computer Memory Works : You Might Also Like : Popular Articles : Pos 3 " >How Netbooks Work</a></li>
+</ul>
+		</div>
+	</div>
+</div>
+			<div class="paddingTop1">
+<div id="googleAdRadLinks0" class="adModule googleAdRadLinks0"></div>
+			</div>
+		</div>
+	</div>
+</div>
+		</div>
+	</div>
+</div>
+
+	
+	<!--  google_ad_section_end(name=content) -->
+				</div>
+				<div class="columnRight columnRightArticle noPrint">
+	<!-- AD : DFP -->
+	<div id="page-ad-container-rectangleRailTop" class="ad-tag" style="display: none;"></div>
+		<!-- AD : DFP -->
+	<div id="page-ad-container-entitlementRailBottom" class="ad-tag" style="display: none;"></div>
+	<div id="tab-set-1" class="module  tabs"> 
+	<div class="inner">
+		<div class="hd">
+			<ul class="line tabControl" tabpage="0">
+<li tab="0" class="current"><a href="#"><span>Most Popular</span></a></li>
+</ul>
+		</div>
+		<div class="bd">
+			<ul>
+	<li tabcontent="0" >
+<div id="RightRailFeature4" class="RightRailFeature module"> 
+	<div class="inner">
+		<div class="hd">
+			<span class="modTitle2">Most Popular</span>		</div>
+		<div class="bd">
+			
+<div class="media">
+	<div class="bd">
+		<ul class="bulleted">
+	<div>
+		<li class="marginTop3">
+			<div class="linkContainer" >
+				
+				<a class="bold"  omni="Article : Rt Rail 4 : Pos 1 " href="http://computer.howstuffworks.com/difference-between-ink-and-toner.htm">
+					<div class="roundedDot">
+					<img src="http://static.howstuffworks.com/gif/rightrail-numeral-1-36x36.png">
+				</div>
+					<div class="featuredLink" >
+						What’s the difference between ink and toner?					</div>
+				</a>
+			</div>
+			<div class="unitLast" style="">
+				<a  omni="Article : Rt Rail 4 : Pos 1 " href="http://computer.howstuffworks.com/difference-between-ink-and-toner.htm">
+					<img width="100px" height="60px" style="width:100px; height:60px;" src="http://static.howstuffworks.com/gif/ink-versus-toner-250x150.jpg" >
+				</a>
+			</div>
+		</li>
+	</div>
+	<div>
+		<li class="marginTop3">
+			<div class="linkContainer" >
+				
+				<a class="bold"  omni="Article : Rt Rail 4 : Pos 2 " href="http://electronics.howstuffworks.com/everyday-tech/quantified-self.htm">
+					<div class="roundedDot">
+					<img src="http://static.howstuffworks.com/gif/rightrail-numeral-2-36x36.png">
+				</div>
+					<div class="featuredLink" >
+						What’s the 'quantified self'?					</div>
+				</a>
+			</div>
+			<div class="unitLast" style="">
+				<a  omni="Article : Rt Rail 4 : Pos 2 " href="http://electronics.howstuffworks.com/everyday-tech/quantified-self.htm">
+					<img width="100px" height="60px" style="width:100px; height:60px;" src="http://static.howstuffworks.com/gif/quantified-self-250x150.jpg" >
+				</a>
+			</div>
+		</li>
+	</div>
+	<div>
+		<li class="marginTop3">
+			<div class="linkContainer" >
+				
+				<a class="bold"  omni="Article : Rt Rail 4 : Pos 3 " href="http://computer.howstuffworks.com/remote-file-access.htm">
+					<div class="roundedDot">
+					<img src="http://static.howstuffworks.com/gif/rightrail-numeral-3-36x36.png">
+				</div>
+					<div class="featuredLink" >
+						How Remote File Access Works					</div>
+				</a>
+			</div>
+			<div class="unitLast" style="">
+				<a  omni="Article : Rt Rail 4 : Pos 3 " href="http://computer.howstuffworks.com/remote-file-access.htm">
+					<img width="100px" height="60px" style="width:100px; height:60px;" src="http://static.howstuffworks.com/gif/remote-file-access-orig-250x150.jpg" >
+				</a>
+			</div>
+		</li>
+	</div>
+	<div>
+		<li class="marginTop3">
+			<div class="linkContainer" >
+				
+				<a class="bold"  omni="Article : Rt Rail 4 : Pos 4 " href="http://computer.howstuffworks.com/10-things-before-wipe-computer.htm">
+					<div class="roundedDot">
+					<img src="http://static.howstuffworks.com/gif/rightrail-numeral-4-36x36.png">
+				</div>
+					<div class="featuredLink" >
+						10 Things to Do Before You Wipe Your Computer					</div>
+				</a>
+			</div>
+			<div class="unitLast" style="">
+				<a  omni="Article : Rt Rail 4 : Pos 4 " href="http://computer.howstuffworks.com/10-things-before-wipe-computer.htm">
+					<img width="100px" height="60px" style="width:100px; height:60px;" src="http://static.howstuffworks.com/gif/wipe-computer-250x150.jpg" >
+				</a>
+			</div>
+		</li>
+	</div>
+	<div>
+		<li class="marginTop3">
+			<div class="linkContainer" >
+				
+				<a class="bold"  omni="Article : Rt Rail 4 : Pos 5 " href="http://electronics.howstuffworks.com/family-tech/tech-effects-on-family/family-technology-quiz.htm">
+					<div class="roundedDot">
+					<img src="http://static.howstuffworks.com/gif/rightrail-numeral-5-36x36.png">
+				</div>
+					<div class="featuredLink" >
+						Technology: Family Friend or Foe?					</div>
+				</a>
+			</div>
+			<div class="unitLast" style="">
+				<a  omni="Article : Rt Rail 4 : Pos 5 " href="http://electronics.howstuffworks.com/family-tech/tech-effects-on-family/family-technology-quiz.htm">
+					<img width="100px" height="60px" style="width:100px; height:60px;" src="http://static.howstuffworks.com/gif/edu-video-quiz-250x150.jpg" >
+				</a>
+			</div>
+		</li>
+	</div>
+</ul>
+
+<script>
+	(function ($) {
+	// VERTICALLY ALIGN FUNCTION
+	$.fn.vAlign = function(height) {
+		/*if(height==16)
+		{
+			$(this).css('top', "12px");
+			//alert(-4*mult);
+		}
+		if(height==32)
+		{
+			$(this).css('top', "8px");
+		}
+		else
+		{
+				$(this).css('top', "-4px");
+		}*/
+		return this.each(function(i){
+		var ah = $(this).height();
+		
+		if(height>16 && height<20)
+		{
+			$(this).css('top', "18px");
+		}
+		if(height >= 36 && height < 40)
+		{
+			$(this).css('top',"10px");
+		}
+		if(height>=54)
+		{
+			$(this).css('top',"0px");
+		}
+		//alert(mh);
+		});
+	};
+	})(jQuery);
+	
+		$(".tabs .inner .bd ul li").each(function(){
+			$(this).attr('display', 'block');
+			$(".featuredLink").each(function(){
+		
+				$(this).vAlign($(this).height());
+		
+			//alert($(this).height());
+			});
+		});
+		
+		function doCenter()
+		{
+			$(".featuredLink").each(function(){
+				//alert($(this).height());
+				$(this).vAlign($(this).height());
+		
+			//alert($(this).height());
+			});
+		}
+
+		$(".tabControl li a").click(function(){
+			//alert('here');
+			setTimeout('doCenter()',10);
+			//$(this).attr('display', 'block');
+		});
+
+		$(".tabControl").each(function(){
+			$(this).removeClass("tabControl").addClass("modTitle2");
+			$(this).css('padding-bottom', "10px");
+			$(this).css('width', "300px");
+			$(this).css('border-bottom', "2px solid #ccc");
+		});
+
+		$(".modTitle2 li a").each(function(){
+			$(this).css('color', "#0FA7F8");
+			$(this).css('pointer-events', "none");
+			$(this).css('text-decoration', 'none');
+			$(this).css('cursor', 'default');
+		});
+
+</script>
+
+	</div>
+</div>
+
+		</div>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+	</div>
+</div>
+			<div class="OUTBRAIN" data-src="http://computer.howstuffworks.com/computer-memory1.htm" data-widget-id="AR_2" data-ob-template="howstuffworks" ></div>
+
+<script>
+
+var widgetLoadEvents = widgetLoadEvents || [];
+widgetLoadEvents.push({
+  url         : location.pathname + location.hash,
+  event       : "object-load",
+  eventAction : "outbrain-widget",
+  eventLabel  : "outbrain_AR_2"
+});
+
+</script>
+
+			<script type="text/javascript" async src="http://widgets.outbrain.com/outbrain.js"></script>
+	<!-- AD : DFP -->
+	<div id="page-ad-container-rectangleRailBottom" class="ad-tag" style="display: none;"></div>
+	
+
+				</div>
+			</div>
+			<div class="footer footerArticle noPrint">
+	<!-- AD : DFP -->
+	<div id="page-ad-container-outofpage" class="ad-tag" style="display: none;"></div>
+	<script type='text/javascript' src='//c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+<script type='text/javascript'> try { amznads.getAds('3082'); } catch(e) { /*ignore*/ } </script>
+
+<script type="text/javascript" src="http://s.hswstatic.com/ddm/javascript/apis/3.0.34/manager/dfp.min.js"></script>
+<script>
+
+var adBidders = (pageMetricsData.sponsor.toLowerCase() === 'toyota-brand') ? ['a9','yieldbot'] : ['a9','yieldbot','openx'];
+
+DDM.adManager.init ({
+	'networkCode'    : 108939068,
+	'topLevelAdUnit' : "hsw",
+	's1'             : "tech",
+	's2'             : "computer",
+	's3'             : "computerhardware",
+	's4'             : "memory",
+	'adUnit'         : "hsw/tech/computer/computerhardware/memory",
+	'slotName'       : "/108939068/hsw/tech/computer/computerhardware/memory",
+	'pid'            : "5301-1",
+	'type'           : "article-structured",
+	'category'       : "",
+	'kw'             : "",
+	'sg'             : (typeof semVars['segment'] === 'undefined' ? '' : semVars['segment']),
+	'sk'             : (typeof semVars['keywords'] === 'undefined' ? '' : semVars['keywords']),
+	'absx'           : (typeof GACtest === 'undefined' ? '' : GACtest),
+	'bidders'        : adBidders
+});
+
+</script>
+<div id="ShowsRiver0" class="ShowsRiver module Shows"> 
+	<div class="inner">
+		<div class="bd">
+			<div class="colorText6 modTitle2 borderBottom1 paddingBottom3 marginBottom1">CHECK OUT OUR PODCASTS</div>
+
+<div class="Shows positionRelative" >
+	<div class="positionAbsolute pointer prev browse left" id="shows-scrollable-left"></div>
+	<div class="scrollable" id="shows-scrollable">
+		<div class="scrollableItem">
+			<div>
+						<div class="media mediaVertical mediaShows">
+	<a class="img" href="http://www.stuffyoushouldknow.com/" data-index="1" show-name="Stuff You Should Know" omni="How Computer Memory Works : Shows River : Pos 1  : Image">
+		<img src="http://s.hswstatic.com/gif/sysk_148o.png" />
+			</a>
+	<div class="bd">
+			</div>
+</div>
+						<div class="media mediaVertical mediaShows">
+	<a class="img" href="http://www.missedinhistory.com/" data-index="2" show-name="Stuff You Missed in History Class" omni="How Computer Memory Works : Shows River : Pos 1  : Image">
+		<img src="http://s.hswstatic.com/gif/symhc_148o.jpg" />
+			</a>
+	<div class="bd">
+			</div>
+</div>
+						<div class="media mediaVertical mediaShows">
+	<a class="img" href="http://www.carstuffshow.com/" data-index="3" show-name="CarStuff" omni="How Computer Memory Works : Shows River : Pos 1  : Image">
+		<img src="http://s.hswstatic.com/gif/carstuff_148o.jpg" />
+			</a>
+	<div class="bd">
+			</div>
+</div>
+						<div class="media mediaVertical mediaShows">
+	<a class="img" href="http://www.stufftheydontwantyoutoknow.com/" data-index="4" show-name="Stuff They Don't Want You to Know" omni="How Computer Memory Works : Shows River : Pos 1  : Image">
+		<img src="http://s.hswstatic.com/gif/stdwytk_148o.jpg" />
+			</a>
+	<div class="bd">
+			</div>
+</div>
+						<div class="media mediaVertical mediaShows">
+	<a class="img" href="http://www.brainstuffshow.com/" data-index="5" show-name="BrainStuff" omni="How Computer Memory Works : Shows River : Pos 1  : Image">
+		<img src="http://s.hswstatic.com/gif/brainstuff148o.jpg" />
+			</a>
+	<div class="bd">
+			</div>
+</div>
+							</div><div>
+						<div class="media mediaVertical mediaShows">
+	<a class="img" href="http://www.stuffmomnevertoldyou.com/" data-index="6" show-name="Stuff Mom Never Told You" omni="How Computer Memory Works : Shows River : Pos 1  : Image">
+		<img src="http://s.hswstatic.com/gif/smnty_148o.jpg" />
+			</a>
+	<div class="bd">
+			</div>
+</div>
+						<div class="media mediaVertical mediaShows">
+	<a class="img" href="http://www.geniusstuff.com/" data-index="7" show-name="Stuff of Genius" omni="How Computer Memory Works : Shows River : Pos 1  : Image">
+		<img src="http://s.hswstatic.com/gif/genius_148o.jpg" />
+			</a>
+	<div class="bd">
+			</div>
+</div>
+						<div class="media mediaVertical mediaShows">
+	<a class="img" href="http://www.stufftoblowyourmind.com/" data-index="8" show-name="Stuff to Blow Your Mind" omni="How Computer Memory Works : Shows River : Pos 1  : Image">
+		<img src="http://s.hswstatic.com/gif/stbym_148o.jpg" />
+			</a>
+	<div class="bd">
+			</div>
+</div>
+						<div class="media mediaVertical mediaShows">
+	<a class="img" href="http://www.fwthinking.com/" data-index="9" show-name="Fw:Thinking" omni="How Computer Memory Works : Shows River : Pos 1  : Image">
+		<img src="http://s.hswstatic.com/gif/fwthinking_148o.jpg" />
+			</a>
+	<div class="bd">
+			</div>
+</div>
+						<div class="media mediaVertical mediaShows">
+	<a class="img" href="http://shows.howstuffworks.com/techstuff-podcast.htm" data-index="10" show-name="TechStuff" omni="How Computer Memory Works : Shows River : Pos 1  : Image">
+		<img src="http://s.hswstatic.com/gif/techstuff_148o.jpg" />
+			</a>
+	<div class="bd">
+			</div>
+</div>
+						</div>
+		</div>
+	</div>
+	<div class="positionAbsolute pointer next browse right" id="shows-scrollable-right"></div>
+</div>
+		</div>
+	</div>
+</div>
+	<!-- AD : DFP -->
+	<div id="page-ad-container-bannerBottom" class="ad-tag" style="display: none;"></div>
+	
+<link href="http://www.howstuffworks.com/css/index/m/oo%252Fhsw%252Ffooter.css/s/hsw/v/en-us/r/10824" rel="stylesheet" type="text/css" />
+<div class="footer-backdrop"></div>
+<footer data-track-gtm="Footer">
+  <div class="footer-wrapper">
+    <div class="container">
+      <div class="hidden-xs hidden-sm row devices-graphic center-block">
+        <img src="http://s.hswstatic.com/en-us/hsw/img/footer_devices.png">
+      </div> 
+      <div class="row top-margin2 bottom-margin2 col-gutter2">
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-5">
+          <p>
+            <img title="HowStuffWorks" alt="HowStuffWorks" src="http://s.hswstatic.com/en-us/hsw/img/footer_logo.png" class="logo">
+          </p>
+          <div class="row">
+            <div class="col-xs-5">
+              <ul class="list-unstyled">
+                <li><a href="http://www.howstuffworks.com/about-hsw.htm">About</a></li>
+                <li><a href="http://shows.howstuffworks.com">Shows</a></li>
+                <li><a href="http://howstuffworks.spreadshirt.com/">Store</a></li>
+                <li><a href="http://www.howstuffworks.com/privacy.htm">Privacy</a></li>
+                <li><a href="http://www.howstuffworks.com/terms-and-conditions.htm">Terms</a></li>
+              </ul>
+            </div>
+            <div class="col-xs-7">
+              <ul class="list-unstyled">
+                <li><a href="http://www.howstuffworks.com/hsw-contact.htm">Contact Us</a></li>
+                <li><a href="http://www.howstuffworks.com/big.htm">Sitemap</a></li>
+                <li><a href="http://www.howstuffworks.com/jobs.htm">Jobs at HowStuffWorks</a></li>
+                <li><a href="http://www.howstuffworks.com/advertise.htm">Advertising</a></li>
+                <li><a href="http://www.howstuffworks.com/faq.htm">Help</a></li>
+              </ul>
+            </div>
+faq ask
+          </div>
+        </div>
+        <div class="col-md-4 col-lg-3 hidden-xs hidden-sm col-devices">
+          <h4 class="onthego"><a href="http://www.howstuffworks.com/app.htm" >HSW ON THE GO</a></h4>
+          <p>Take us with you on your iPad, iPhone or favorite Android device.</p>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+          <hr class="visible-xs" style="display:none;">
+          <h4>NEWSLETTERS</h4>
+          <p>Get the best of HowStuffWorks by email. Keep up to date on:</p>
+          <ul class="p standardc">
+            <li>Latest Buzz</li><li>Stuff Shows &amp; Podcasts</li><li>Tours</li>
+            <li>Weird &amp; Wacky</li>
+          </ul>
+          <div id="f-newsletter">
+            <div class="form-group">
+              <label>Sign-up Now!</label>
+              <input type="email" placeholder="Email Address" id="f-email-input" name="email" class="form-control">
+            </div>
+            <button class="btn btn-primary fright" id="f-newsletter-btn">Sign Up</button>
+          </div>
+          <div style="display: none;" id="f-newsletter-msg">
+          </div>
+          <div class="clearfix">
+          </div><hr class="visible-xs">
+        </div>
+        <div class="col-xs-12 col-md-6 copyright">
+        <p data-track-gtm="Copyright">Copyright &copy; 1998-2015 
+          <a href="http://www.howstuffworks.com">HowStuffWorks</a>,<br>
+          a division of <a href="http://www.infospace.com/">InfoSpace LLC</a>
+        </p>
+        </div>
+      </div>     
+    </div>
+  </div>
+
+</footer>			</div>
+		</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+$('.lazy').inView(300,function(e){e.displayImage('lazy');});
+/* ]]> */
+</script>
+<script type="text/javascript">
+	var s_account="hswprod,hswprodhsw";
+</script>
+<div style="display: none;">
+</div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+function writeImage(method,data,action,current){}
+function sendTags(tag,vars,current,eventObj,noRedirect,pageNbr,redirectUrl){}
+function registerPage(pageName,vars){}
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+$(document).ready(function(){$.fn.tabs=function(){$.each(this,function(){HSW.ui.tabs({widget:$(this),currentTab:0,onSelectTab:function()
+{if(!this.widget.find("li[tabcontent='"+this.currentTab+"']").hasClass('loaded')){var _self=this;$.ajax({dataType:'html',url:'/ajax/get-area',data:{cid:HSW.contentInfo.contentId,f:'HTML',t:90,pn:this.currentTab,mc:'module1',date:'2015-10-05',tc:'HomePage'}}).done(function(data)
+{$("li[tabcontent='"+_self.currentTab+"']").addClass('loaded').html(data);}).fail(function()
+{$("li[tabcontent='"+_self.currentTab+"']").html('Data is currently unavailable.');});}
+this.widget.find("li[tab='"+this.previousTab+"']").removeClass('current');this.widget.find("li[tabcontent='"+this.previousTab+"']").hide();this.widget.find("li[tab='"+this.currentTab+"']").addClass('current');this.widget.find("li[tabcontent='"+this.currentTab+"']").show();DDM.adManager.refresh();}});});};$('.tabs').tabs();});!window.HSW.ui.tabSwitcher&&(HSW.ui.tabSwitcher={});HSW.ui.tabSwitcher=(function()
+{var that={};var _tabSwitchingTimeout=null;var _switchDelay=10*1000;that.switchTab=function(tabSetIndex)
+{var tabIndex=parseInt($("#tab-set-"+parseInt(tabSetIndex)+" .tabControl li.current").attr('tab'));if(tabIndex<4)
+{$("#tab-set-1 .tabControl li[tab="+(tabIndex+1)+"]").click();_tabSwitchingTimeout=setTimeout("HSW.ui.tabSwitcher.switchTab('1')",_switchDelay);}}
+$(document).ready(function(){$("html").bind("mousemove keypress",function(event)
+{if(event.pageX!=0&&event.pageY!=0)
+{$("html").unbind("mousemove keypress");}});});return that;})();$(function()
+{$('#shows-scrollable').scrollable({circular:true});});HSW.newsletterSignUp=(function()
+{var that={};var $submitButton=$('#f-newsletter-btn'),$emailInput=$('#f-email-input'),$newsletterBlock=$('#f-newsletter'),mClass='subscribed',$newsletterMsg=$('#f-newsletter-msg');that.signup=function(e)
+{that.msg("<span class="+mClass+">Please wait while we subscribe you!</span>");$.ajax({type:'GET',url:'/ajax/newsletter-sign-up',dataType:'json',data:{email:$emailInput.val()},error:function(xhr,status,error){this.error();},success:function(data){if(data.success){that.msg("<span class="+mClass+">Thanks, we'll send you some Stuff soon!</span>");}
+else{that.error();}}});return false;}
+that.msg=function(code){$newsletterBlock.hide();$newsletterMsg.html(code);$newsletterMsg.show();}
+that.error=function(){$newsletterMsg.hide();$newsletterBlock.show();}
+$submitButton.click(function(e){if($emailInput.val()==$emailInput.attr('placeholder')){that.error();}
+else{that.signup();}});return that;})();
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+function google_ad_request_done(ads)
+{return;}
+明星电话号码大全 2009-01-12 12: 00 姓名 手 机 电 话 地 址 阿光 13901210583 阿年 13901117844 阿丝茹 13601102487 艾丽亚 68404499-5525 64622299-256 艾雨 13801191671 64022288（助理王颖） 安虎 13910724515 安然 13910750492 安雯 13901153993 巴金 021-64335049 作家 白雪 13901036118 （助理黄丽） 白岩松 13901195707 68348899-32768 68578471 白云 13901363308 鲍大志 13001180515 毕淑敏 63491406 作家 卞留念 65086154 蔡国庆 68474324 66816729 蔡明 13901158431 65193533-100 蔡伟志 13901690882 麦肯原老板 曹颖 13901209099 常宽 13901382878 常戎 13901023004 常远 13901075936 13901235225 62628866-35229 陈宝国 13901110678/9 64042670 陈辰 13002151312 上海主持人 陈成 13501023146 62220317 0311-8637073 主持人 陈道明 13901068800 88121410 陈刚 13901232049 陈好 13701293699 陈红 13901045371 歌手 陈红 13901022221 65075522-1551 陈家林 63831040 陈建斌 13801071995 陈建功 66038180 作家 陈娟红 13901114777 陈俊 13901033050 陈凯歌 13802055060 62881146 62873791 68423388-1551 68423388-2528 陈坤 13901338046 陈莉娜 13501113612 演员 陈琳 13901212607 陈明 13802763660 陈佩斯 64974462 64974679 陈少华 13801322055 （海茵） 陈炜 13901110481 陈小艺 13901145223 陈沂 13701375580 MTV 企宣 陈怡芳 13901308284 陈逸飞 13901978881 陈志朋 13801124338 晨文 13701082055 北京电视台主持人 成方圆 13910833039 程俊 13901033050 程前 13901068822 13801381999 池华琼 13901884503 池莉 027-5694351 027-82627190 作家 池小宁 13901243864 迟帅 13910782512 迟子建 2608032 作家 丛维熙 65980672 作家 崔健 13901041880 13701156605 崔永元 13901144926 崔宗利 13601012099 北四环中路华亭嘉园 D 座 5A 君为传播 82846800 大山 13503018291 大陶红 13901131989 64442307 叮铛 主持人 13801086484 戴军 13901171351 62081237 戴娆 13901066061 单博 13803382657 0335-8819633 模特 德德玛 62546430 邓建国 1392228846 邓捷 13901158465 13901158439 丁嘉丽 13801086799 191-1168240 67714739 丁晟 13801390977 丁武 13641290017 丁志城 13901089241 东田 13901095568 董洁 13802771966 董炯 13701000570 羽毛球冠军 董文华 68420563 董勇 13801365046 窦鹏 13910066339 窦唯 13901202524 窦文涛 13602683807 范冰冰 13701109284 13801318114 68040335 范琳琳 13801204066 范智博 13901391428 方保罗 0852－23690551 23690556 方宏进 68348899-22231 方青卓 13901082100 62468085 方舒 13901158463 方子哥 13901048240 82319166 冯巩 13901037368 冯小刚 13901122526 13901182116 89598328 冯小宁 13701257030 冯晓泉 13901065865 64985918 冯远征 67721141 付铁岗 13907175032 傅彪 13901073259 傅笛声 13901022197 傅丽丽 64701373 傅艺伟 68412277-343 盖丽丽 13901167515 80796017 甘苹 13901086068 高宝宝 13907076811 高发 13901114825 高虎 13901143534 高蓉 13601668390 高曙光 13901068855 高晓松 13701178824 高艳津子 13910898198 67227161 现代舞团 高原 68941409 高圆圆 13001251186 葛存壮 62014550 葛优 13901068811 62047799（88） -2228 88121412 13901076901 68520930 耿乐 13701111747 龚蓓苾 13501262620 狗子 68767200 64289988-52530 顾长卫 13801310110 关牧村 13601239166 63744671 郭峰 13901192515 13901016759 郭公芳 13801201260 62369760 郭金 13501090990 191-8866262 郭涛 13901065340 郭晓橹 13601389124 过士行 64918273 哈斯高娃 13801307217 含笑 13601008282 韩红 13901128430 65139679 68592589 张艺倩 韩磊 13901248600 韩青 13901377291 韩少功 0898-5882748 作家 韩雪 13601291388 杭天琪 13901158438 郝艳 69348609 何炅 13801011233 何静 13901057822 何琳 13801156128 何平 64055123 何群 13901299287 62040534 13901299281 何赛飞 0591--8071158 黑鸭子 13901071280 红豆 66034653 侯耀华 13901109298 13801086484 燕子 侯咏 13902956564 侯跃文 13901080999 胡安 13501134809 9143512070 2124962239（美） 68418608 65289109 胡兵 13501667896 13901325161 13601879212 13901064012 13901379587 胡东 13701111712 胡靖钒 13910798488 胡军 胡可 13901158464 65814477 胡亚捷 66038141 黄定宇 13901198688 黄格选 13901045328 62056366 黄海冰 13901100803 黄建新 13901061255 13901061256 黄健中 13801166630 62022183 黄磊 13901019642 黄燎原 13901064663 黄绮珊 13501378464 向波（经纪人） 黄珊 13001141590 北京人民广播电台主持人 黄式宪 62210579 黄蜀芹 64392214 黄奕 13801726440 霍建起 13801137630 029-7234567 北京西罗园二区甲楼 2301 号 100077 季元良 13901699116 甲丁 126-9999 贾妮 13801039880 贾樟柯 江珊 13901068855 江涛 13901051186 13801385149 62553399-9876 62385236 江小鱼 13601209764 姜丰 13901026892 68574571 68509428 68537722-1624 姜鸿波 13801055777 68336699-10888 姜昆 13901028601 68326866 姜培琳 13910690800 姜文 13801232463 13801182684 65035713 64624959 65125015 13901163880 燕子 姜昕 13901114903 蒋勤勤 13501255184 13901229396 蒋雯丽 13901079019 蒋小涵 68812311 焦刚 13701354149 焦晃 021-64515465 解晓东 13901137772 13910844901（魏鑫） 金超群 13706344730 金海心 13901158454 13701120763 65032090 金星 13901062731 65080305 13801320545 金学峰 13601269388 金昭 67628038 景岗山 13901158454 13901084544 13901158854 64281398 13801373355 石杨 敬一丹 13901181311 酒井美子 13001167097 鞠萍 63022826 瞿颖 13901059801 65125020 娟子 13901253622 127-8109178 凯丽 13901130733 凯璐凯玥 13801076382 孔琳 138014027927 寇世勋 61679760 蓝天野 65247095 表演艺术家 老狼 13901338139 63463309 乐珈彤 13501113579 雷恪生 64012280 黎涵 13801002335 《风云少年》 歌手 李嫒嫒 64931552 李保田 64014882 62046666—1222 李彬 13901164521 李冰冰 13901244599 李琛 13901219612 李晨 13601860924 主持人 李成儒 13901236940 李春波 13501204259 65258866-562 李丹阳 13901339143 李丹阳 64991871 李丁 63461778 李翰均 13911368844 演员 李慧珍 13901066161 李杰 13901188093 62045829 李解 13501052075 李金羽 13801358806 李进 13901135355 13901107600 李静 13901370741 李柯 13801004445 国际广播电台主持人 李琳 13701179088 李凌伶 13901057320 李羚 13801228858 李明启 64019471 李默然 024-86226363 李宁 65256344 李琦 13901063765 68177030 李勤勤 66871004 李少红 13901205320 68528287 李双江 13801229699 66869181 李涛 13661276797 模特 李霞 13901309003 李霞 13901309003 李湘 13501344330 李小龙 13901115942 65139681/78 66176006-4268 李小婉 13001126879 62003012 李晓璐 13701212484 13701212428 68525577-53556 李学庆 13701116372 李雪健 13801118111 66375588-969 13601117111 李亚鹏 13701031897 李延亮 13701217040 李晔 13701314834 李永昌 13001678100 李咏 13901120481 68537722-368 李郁 13801211338 李煜 13901111899 李志超 13801398270 模特 李宗翰 13910308589 梁冠华 67542081 62568800-35565 梁天 13901158459 62175566-9963 65266719 梁晓声 62061353 62014217 梁茵 13801353464 林芳兵 64219477 林洪桐 62015634 82079411 林克欢 64017251（H） 林鹏 13901065873 林萍 13901374709 林依轮 13901337037 64892288 张静梅 林兆华 64214081 127---8533369 零点 13901246097 廖利生（经纪人） 刘宝军 13801241425 《东方时空》 记者 刘蓓 13901231230 刘风成 13901298392 模特 刘恒 66038189 作家 刘欢 64912866 191-1211900、 13901158419 64492274 刘婕 13901182547 刘金山 13901173592 刘俊 13601233728 刘凯 13520004921 模特， 健身教练 刘佩琦 13901029085 66871004 刘若英 13601176292 刘铁钢 64031099 刘威 13801018576 13801014604 刘小宁 13901248880 刘晓晔 13701079661 刘心武 64263965 作家 刘欣 13901399058 刘信义 13901158755 刘烨 13701183907 刘仪伟 13901374860 刘孜 13701186550 13901195692 卢庚戍 13901152092 13701392818 楠岚 陆凌涛 64614488-8531 陆毅 13003133982 64758518 路海波 65243366-52345 64011976 路学长 64236013 吕丽萍 13901191433 68631002 罗海琼 13661152891 罗湘晋 13902229922 罗中旭 13901100718 13801303552 64022288 13901236254 程涛 倮倮 13901302092 64969253 马柯 13501206714 马羚 63170747 63170752 马晓睛 13701082227 马艳利 13901998482 马伊俐 13611244961 马勇 13601258555 麦丽丝塞夫 62013219 满江 13901392813 191-1101567 13601200123 13901360228（梁悦） 满文军 13901111371 毛阿敏 64931216 毛宁 13901067776 288-6000 13901031010 眉佳 13901166015 梅婷 13910778221 13901114142 孟京辉 13301010557 孟欣 13901218388 张今利（助手） 13901378700 莫慧兰 13601378955 莫言 66734957 作家 牟森 13901392914 戏剧家 穆江 13801104570 模特 那英 13901068833 13901038787 13801303552 13901038787 那辛 13910775500 倪萍 13901191455 倪桑 13910099567 62227893 美丽梦工厂总监 宁静 13901021808 69794116 0, 86, 317, 0, 1, 14, 317, 0 宁瀛 66056422 64159644 牛群 13901184800 62070990 68583493 牛振华 13901066266 63499437 潘长江 13910383600 13801372227 64957568 潘劲东 13501088578 81785799 69755799 潘小杨 63447866 64592266-15358 潘耀武 13501288771 潘粤明 13701052161 彭丽媛 13901036099 13901221686 妹 65133355 弟 彭坦 1390123372 濮存昕 13701095623 65226789 65243366-9311 朴树 13801254310 64980602 64934408 64974408 62885668 张路 齐士龙 1391007359 62252206 秦海璐 13801072345 秦勇 13901259986 任泉 13901875792 茹萍 1278235365 撒贝宁 13701065333 桑兰 13611360306 87264481 沙宝亮 13801008234 歌手 邵兵 13901037215 67633526 魏鑫 13901088518 陶然 13910844901 邵峰 13901378659 邵建武 13901310860 64265464 作家 邵牧君 64666247 申军谊 13901039978 64205868 80796386 64201373 沈冰 13910785066 沈畅 13901251745 沈黎晖 13901037068 施润玖 13801150133 导演 石兰 80461512 65137866-8023 史可 舒高 13908480000 舒乙 64266584 老舍之子 水均益 13901195700 斯琴高娃 13601267547 62263069 64910603 13801379494 斯琴格日勒 13801120348 （纪雅丽） 13901228732 宋春丽 13901065286 66059239 13901070947 13901158453 65035634 宋佳 13601321527 13601321521 宋颖 13910778836 宋祖英 13901223068 68286618 苏丹 13910050501 尤尤 82311692/90/82319574 苏瑾 13005166737 苏叔阳 13901387738 67659834 孙淳 13901079676 68125383 64021373 孙飞虎 13909289119 （029） 5521539 孙国庆 64363888 孙浩 13901031232 孙慧莹 13901056146 孙萌 13901216919 孙楠 13901156959 64022288 13601320504 84899696 孙松 13901203003 孙晓梅 13901013528 孙兴 13601027441 孙悦 13901116335 13901130202 66013338-89 孙周 13902285118 索妮 13001951925 谭璐璐 13901184142 汤灿 13901359351 64956266 汤娜 13701088296 唐国强 63498097 63465431-5340 腾华涛 13701298082 滕格尔 13601175701 滕汝骏 64012148 滕文骥 13901229698 田歌 1391115861 68419922-3311 田华 63465431 田震 13901212652 田壮壮 13901123325 62352118 佟大为 13910056999 屠洪刚 13901224600 63047943 66811535 13801069839 万方 027-6814044 6811962 作家 汪东升 13801355024 汪峰 13501283629 汪洋 13701091702 汪正正 13701182408 67031061 王冰 13901090919 65025834 电视撰稿 王冰 13801090565 北京电视台导演 王东 13901336930 王非非 13901155159 （王铭） 0, 83, 396, 0, 1, 18, 396, 0 王扶林 68188760 王刚 13901033573 65081179 68423388-10910 王海珍 13701217789 王好为 62011169 王晖 13910692412 65943153 概念模特 王姬 13901023718 65150116 65150978 王锦鹏 13901071658 王璐瑶 13901228588 64940603 王蒙 64012667 作家 王宁 13001098048 王诗槐 021-2808528 王朔 65125566-4562 作家 王思懿 13901230333 王铁成 65525145 王小芳 13701006824 68036617（H） 眼镜蛇主唱 王小帅 13601280211 127-5694351 王小丫 13901151205 王学兵 13701079144 王要 13701114771 王宇刚 13901065613 王志文 13901888889 王子鸣 13910703008 巍子 13901220599 韦嘉 13701203115 韦唯 13901327982 62895906 魏积安 68332388 66734129 魏明伦 0813-2206402 文清 13901052166 邬倩倩 13901031462 巫刚 66823504 吴倩莲 00852-27912639 吴若甫 13901056888 68472778 吴文光 62014341 摄影师 吴向东 13701352152 65066614 模特 吴越 13901392904 13901644367 13801089570 吴瓒 13910966781 j_cloudy@yahoo. com mtv 电视台主持人 伍仕贤 13801211684 伍洲桐 13901184988 65268866-5 北京音乐台主持人 武进 13901080589 中央台美术类节目编辑 夏刚 13701248753 62061190 夏雨 13901070947 13601066555 小柯 13901021691 13901021690 61757727 小涛 13910968700 主持人 小陶红 13901230478 肖复兴 67710085 作家 肖雄 65138009 谢艾琳 13916668614 谢东 13901158452 13901149745 谢芳 62012691 谢飞 13801330269 64673901 64679988-65270 62210547 谢晋 021-62174460 谢小东 13001203738 13001158469 64970886 谢雨欣 13901102008 13901068822 谢园 13901158469 心跳男孩 64910603 辛欣 13901395435 新裤子 13910558883 庞宽 13601104356 刘葆 13501021722 彭磊 64735916 尚笑修宗迪 67616704 徐冲 13701370359 模特 徐帆 13901174989 徐静蕾 13901038141 徐沛东 13901311255 87278041 徐晓钟 65003505 徐秀林 67641255 徐志贺 13801002253 世纪元素模特公司 许戈辉 65044598 许还幻 13701112505 许还山 13909242220 029-5522158 许晴 13501000528 13901146728 许巍 13611287579 许文广 13901138197 中央台经济节目制片人 许亚军 13901079886 亚宁 13901039611 阎汉彪 13801325196 阎维文 13801388003 68423066 颜丙燕 13901188444 颜丹晨 13801209674 颜峻 13001069061 85818103 （100025） 十里堡晨光家园 213 楼 2408 燕子 13901163880 杨浩 13801312438 杨澜 13901953123 杨立新 13801231290 67766625 13901231290 杨丽萍 13901357712 杨青 13601165017 64877138 杨若兮 13901336564 杨童舒 13901139236 杨钰莹 13923414900 叶蓓 13901308578 13801014320（金子） 叶晓纲 13901135196 伊菲 13801331690 伊扬 13801198207 88131882 彝人制造 13701375348 殷秀梅 68861616 尹力 13901026610 英达 13901300565 67653440 95808-126 英壮 13701024444 尤小刚 13901209493 13901031459 65150377 67667625 尤勇 13901172368 于慧 13901735229 64945560 于荣光 13901196234 于小洋 13801072277 于洋 13901168299 余团长 13806416006 中国杂技团 俞静 13801021355 66012786 66012792 俞小凡 8860 932205468 61678741 虞梦 13701026881 羽· 泉 13701068439 海泉 13801034304 袁涛 13801007623 郁冬 13501101166 13901380884（左洛） 郁均剑 68421254 原华 13901075722 袁立 13901011587 袁泉 13701315613 岳梅 13901190548 新思路模特 岳秀清 13901106360 臧天朔 13901398158 詹小楠 13901844367 张丰毅 13901020706 张光北 13901046122 66053411 张广天 13801156893 张国立 13901158465 13901334599 67623818 张汉杰 13909232469 张恒 13801073389 张惠妹 13701376150 张洁 66038673 作家 张抗抗 62463430 作家 张林 13801007866 张咪 13910739636 67624290 64731838 张淼淼 13701000570 新思路模特 张瑞芳 021-4371118 张铁林 13901363044 张彤 13801286609 张卫健 13701152340 61678729 张卫宁 13901212652 音乐制作人 张贤亮 0951-5045054 作家 张延 13901096824 65676579 张炎炎 13910052520 张扬 13901135819 导演 张扬 13901011644 张也 65061886 张艺谋 13901003870 62380210 张迎玖 13701005800 主持人 张瑜 13901105880 张元 13801231712 张子恩 13901395485 章子怡 13701101199 13701108597 赵宝刚 13901383999 64368256 65089648 赵本山 13804094055 赵化勇 13901239782 中央电视台台长 赵京男 13910066661 65813457 新思路模特 赵俊 13910225850 概念模特 赵奎娥 64013687 赵琳 13801302092 赵明明 13901085787 64948552 赵倩 13701111836 赵沁 13011855804 赵薇 13701822637 021--62784760 13901293669（陈蓉） 赵有亮 64031009 赵忠祥 13801390686 68506810 郑大鹏 13910806184 郑洞天 62241283 郑钧 13901153595 郑卫莉 13901153681 62040670 郑晓龙 13901322862 62237190 郑阳 13801189880 郑泽凡 13901313478 郑振摇 65003455 周杰 13901181098 周双健 13911373256 模特 周文宏 13801300453 话剧演员 周显欣 13910792466 95922-166778 周晓鸥 13901031279 周迅 13901182537 62372239 62003013 周艳泓 13901025055 朱宏嘉 13901330318 朱桦 13901242737 13901173503 朱军 13801008319 朱琳 64168165 朱时茂 13901221263 68489493 68489491 13901005566 13801221689 朱媛媛 13901336828 朱云 13001286383 65268866-26 北京音乐台主持人 宗璞 62750782 作家 
+function google_radlink_request_done(radlinks)
+{if(radlinks.length==0||googleAdsSuppress)
+{return;}
+var endLoop,radLinksPosition=new Array();function twoColumnDisplay(radLinksAds,loop,omni){if(radLinksAds.length==0){return;}
+var endLoop;var t='<div class="module moduleHeader3"><div class="inner"><div class="hd"><span class="modTitle2">Related Ad Categories</span></div><div class="bd"><div class="line">';t+='<div class="unit size1of2">';t+='<ul class="bold">';if(radLinksAds.length<3){endLoop=radLinksAds.length;}
+else{endLoop=3;}
+for(i=0;i<endLoop;++i)
+{t+='<li><a '+omni.replace("POSRPL",i)+'href="/radlinks.php?google_ad_channel=&term='+radLinksAds[i].url_escaped_term+'&google_rt='+radLinksAds[i].radlink_token+'&google_page_url='+encodeURIComponent(window.location)+'">'+radLinksAds[i].term+'</a></li>';}
+t+='</ul></div>'+'<div class="unit size1of2 unitLast">'+'<ul class="bold">';if(radLinksAds.length>3){endLoop=radLinksAds.length;for(i=3;i<endLoop;++i)
+{t+='<li><a '+omni.replace("POSRPL",i)+'href="/radlinks.php?google_ad_channel=&term='+radLinksAds[i].url_escaped_term+'&google_rt='+radLinksAds[i].radlink_token+'&google_page_url='+encodeURIComponent(window.location)+'">'+radLinksAds[i].term+'</a></li>';}}
+t+='</ul></div></div></div></div>';$('#googleAdRadLinks'+loop).html(t);}
+function oneColumnDisplay(radLinksAds,loop,omni){var numLinks=radLinksAds.length;if(numLinks==0){return;}
+var t='<div class="module module1 moduleHeader2 marginClearBottom"><div class="inner"><div class="hd"><span class="modTitle2">Related Ad Categories</span></div><div class="bd">';t+='<ul class="bold">';for(i=0;i<numLinks;++i)
+{t+='<li'+(i+1<numLinks?' class="paddingBottom3"':'')+'><a '+omni.replace("POSRPL",i)+'href="/radlinks.php?google_ad_channel=&term='+radLinksAds[i].url_escaped_term+'&google_rt='+radLinksAds[i].radlink_token+'&google_page_url='+encodeURIComponent(window.location)+'">'+radLinksAds[i].term+'</a></li>';}
+t+='</ul></div></div>';$('#googleAdRadLinks'+loop).html(t);}
+radLinksPosition[0]=radlinks.slice(0,3);if(radLinksPosition[0].length>3)
+{twoColumnDisplay(radLinksPosition[0],0,' omni=\u0022How Computer Memory Works : You Might Also Like: Related Ad Categories : Pos POSRPL\u0022');}
+else{oneColumnDisplay(radLinksPosition[0],0,' omni=\u0022How Computer Memory Works : You Might Also Like: Related Ad Categories : Pos POSRPL\u0022');}}
+if(googleAdsSuppress){var ads=new Array;google_ad_output='';google_ad_client='';google_ad_channel='';google_safe='';google_num_radlinks='';google_max_radlink_len='';google_max_num_ads='0';google_prev_ad_formats='';var google_hints='';}
+else
+{var semChannel=(HSW.cookies.get('ws_hsw_rt')===false?'':',r0'),adChannel='computer,computer-'
++pageMetricsData.template+','+pageMetricsData.cType.toLowerCase()+','+pageMetricsData.codebase;var ads=new Array;google_ad_output='js';google_ad_client='ca-howstuffworks_radlinks_js';google_ad_channel=adChannel+(typeof GACtest!=="undefined"?','+$.trim(GACtest):"")+semChannel;google_safe='medium';google_num_radlinks=3;google_max_radlink_len=23;google_max_num_ads='0';google_prev_ad_formats='';var google_hints='Memory How Computer Memory Works';}
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var googleAdId='#googleAd',googleAd=$(googleAdId);if(googleAd.length!==1)
+{googleAdId='#googleAdBottom002';googleAd=$(googleAdId);}
+function google_ad_request_done(ads)
+{var numAds=google_ads.length;if(numAds==0||googleAdsSuppress)
+{return;}
+var i,t="";if(googleAdId==='#googleAd')
+{t+='<div class="unit paddingRight1 paddingLeft2 paddingVertical2" style="width:200px;">';t+='<div id="GoogleAdsBottom0" class="module module1 moduleHeader3">';}
+else
+{t+='<div id="GoogleAdsBottom0" class="module moduleHeader3">';}
+t+='<div class="inner"><div class="hd"><span class="modTitle2"><a class="colorText1" href="'+google_info.feedback_url+'">Ads by Google</a></span></div><div class="bd">';for(i=0;i<numAds;++i)
+{t+='<div class="left paddingTop3" style="width: 185px; '+(i<2?' padding-right:32px;':'')+'"><div class="bold">'+'<a target="gslp" href="'+google_ads[i].url+'" onclick="sendTags(\'Google AFC2\', \'&events=purchase,event45&products=;GoogleAFC2;1;1\', this, null, true);" '+'onmouseout="window.status=\'\'" '+'onmouseover="window.status=\'go to '+
+google_ads[i].visible_url+'\'; return true"> '+
+google_ads[i].line1+'</a></div>'+'<div class="left colorText1" style="width: 185px; '+(i<2?' padding-right:32px;':'')+'">'+google_ads[i].line2+' '+
+google_ads[i].line3+'</div>'+'<div class="left" style="width: 185px; font-size: 11px; '+(i<2?' padding-right:32px;':'')+'"><a target="gslp" href="'+google_ads[i].url+'" onclick="sendTags(\'Google AFC2\', \'&events=purchase,event45&products=;GoogleAFC2;1;1\', this, null, true);" '+'onmouseout="window.status=\'\'" '+'onmouseover="window.status=\'go to '+
+google_ads[i].visible_url+'\'; return true">'+
+google_ads[i].visible_url+'</a></div></div>';}
+t+='</div></div></div>';if(googleAdId==='#googleAd')
+{t+='</div>';}
+googleAd.html(t);}
+if(googleAdsSuppress)
+{var ads=new Array;google_ad_output='';google_ad_client='';google_ad_channel='';google_safe='';google_num_radlinks='';google_max_radlink_len='';google_max_num_ads='0';google_prev_ad_formats='';var google_hints='';}
+else
+{var semChannel=(HSW.cookies.get('ws_hsw_rt')===false?'':',r0'),adChannel='computer,computer-'
++pageMetricsData.template+','+pageMetricsData.cType.toLowerCase()+','+pageMetricsData.codebase;var ads=new Array;var google_ad_output='js';var google_ad_client='howstuffworks_rs_js';var google_ad_channel=adChannel+(typeof GACtest!=="undefined"?','+$.trim(GACtest):"")+semChannel;var google_safe='medium';var google_max_num_ads='3';var google_skip=3;var google_ad_type='text';var google_hints='Memory How Computer Memory Works';}
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var googleAdId='#googleAd',googleAd=$(googleAdId);if(googleAd.length!==1)
+{googleAdId='#googleAdBottom005';googleAd=$(googleAdId);}
+function google_ad_request_done(ads)
+{var numAds=google_ads.length;if(numAds==0||googleAdsSuppress)
+{return;}
+var i,t="";if(googleAdId==='#googleAd')
+{t+='<div class="unit paddingRight1 paddingLeft2 paddingVertical2" style="width:200px;">';t+='<div id="GoogleAdsBottom0" class="module module1 moduleHeader3">';}
+else
+{t+='<div id="GoogleAdsBottom0" class="module moduleHeader3">';}
+t+='<div class="inner"><div class="hd"><span class="modTitle2"><a class="colorText1" href="'+google_info.feedback_url+'">Ads by Google</a></span></div><div class="bd">';for(i=0;i<numAds;++i)
+{t+='<div'+(i>0?' class="paddingTop2"':'')+'><div class="line1 bold">'+'<a target="gslp" href="'+google_ads[i].url+'" onclick="sendTags(\'Google AFC2\', \'&events=purchase,event45&products=;GoogleAFC2;1;1\', this, null, true);" '+'onmouseout="window.status=\'\'" '+'onmouseover="window.status=\'go to '+
+google_ads[i].visible_url+'\'; return true"> '+
+google_ads[i].line1+'</a></div>'+'<div class="line2 colorText1">'+google_ads[i].line2+' '+
+google_ads[i].line3+'</div>'+'<div class="line3"><a target="gslp" href="'+google_ads[i].url+'" onclick="sendTags(\'Google AFC2\', \'&events=purchase,event45&products=;GoogleAFC2;1;1\', this, null, true);" '+'onmouseout="window.status=\'\'" '+'onmouseover="window.status=\'go to '+
+google_ads[i].visible_url+'\'; return true">'+
+google_ads[i].visible_url+'</a></div></div>';}
+t+='</div></div></div>';if(googleAdId==='#googleAd')
+{t+='</div>';}
+googleAd.html(t);}
+ABCDS1234Y
+ABAB12345Y
+avCDS1234Y
+if(googleAdsSuppress)
+{var ads=new Array;google_ad_output='';google_ad_client='';google_ad_channel='';google_safe='';google_num_radlinks='';google_max_radlink_len='';google_max_num_ads='0';google_prev_ad_formats='';var google_hints='';}
+else
+5d2add55d_
+a____1234567890d
+臺灣省還
+aa5aad99_____________
+{var semChannel=(HSW.cookies.get('ws_hsw_rt')===false?'':',r0'),adChannel='computer,computer-'
++pageMetricsData.template+','+pageMetricsData.cType.toLowerCase()+','+pageMetricsData.codebase;var ads=new Array;var google_ad_output='js';var google_ad_client='howstuffworks_rs_2_js';var google_ad_channel=adChannel+(typeof GACtest!=="undefined"?','+$.trim(GACtest):"")+semChannel;var google_safe='medium';var google_max_num_ads='3';var google_skip=0;var google_ad_type='text';var google_hints='Memory How Computer Memory Works';}
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+$(document).ready(function()
+{var citeButton=$('.citeButton');var citeContainer=$('.citationContainer');var citeIsOpened=false;var shareButtons=$('.shareButton');var sharePopups=$('.sharePopup');citeButton.add(shareButtons).closest('.module').css({position:'relative',zIndex:19});citeButton.children('.citeLink').toggle(function(e){citeButton.css({position:'relative',zIndex:20});citeContainer.show();var tag=citeButton.attr('omni');if(tag!=''&&tag!==undefined)
+{sendTags(tag,null,this,e);}
+citeIsOpened=true;},function(e){citeContainer.hide();citeButton.css({position:'static',zIndex:0});citeIsOpened=false;});citeContainer.find('#citeCloseButton').click(function(){citeButton.children('.citeLink').click();return false;});shareButtons.each(function(){var shareButton=$(this);shareButton.hover(function(){$('articleBody object').css('visibility','hidden');if(citeIsOpened)
+{citeButton.children('.citeLink').click();}
+shareButton.css({position:'relative',zIndex:20});$(this).find('.sharePopup').show();}).mouseleave(function(){$(this).find('.sharePopup').hide();shareButton.css({position:'static',zIndex:0});$('articleBody object').css('visibility','visible');});});sharePopups.children('.shareItem').hover(function(){$(this).css('backgroundColor','#E0E0FF');}).mouseleave(function(){$(this).css('backgroundColor','transparent');});if(HSW.cookies.exists('user_type')&&HSW.cookies.exists('auth_type')&&HSW.cookies.exists('user_id'))
+{var userValue=(HSW.cookies.user_type.value+' : '+HSW.cookies.auth_type.value).toLowerCase();}});$('#YouMightAlsoLike1RightColumn>.unit').equalizeHeights();
+/* ]]> */
+</script>
+
+530180782@qq.com 243678025@qq.com 398018489@qq.com 595064131@qq.com 362483245@qq.com 285340035@qq.com 448280012@qq.com 452779373@qq.com 1043553227@qq.com 554003572@qq.com 1158658706@qq.com 535603525@qq.com 327526091@qq.com 491163631@qq.com 404127680@qq.com 610363953@qq.com 530413323@qq.com 976581566@qq.com 645366312@qq.com 252297147@qq.com 958715182@qq.com 421184840@qq.com 276140133@qq.com 295642572@qq.com 657227464@qq.com 402236479@qq.com 304470253@qq.com 954881719@qq.com 584720149@qq.com 1113964742@qq.com 541939857@qq.com 463757313@qq.com 634335492@qq.com 593368912@qq.com 849847679@qq.com 672900644@qq.com 779569651@qq.com 406242205@qq.com 735055817@qq.com 836633828@qq.com 476706564@qq.com 625211428@qq.com 172918923@qq.com 359163787@qq.com
+1/11
+119023118@qq.com 292010344@qq.com 516086546@qq.com 11302299@qq.com 695297016@qq.com 616103992@qq.com 523512190@qq.com 307323273@qq.com 474945849@qq.com 1013934207@qq.com 847449402@qq.com 119024552@qq.com 1016946307@qq.com 851733175@qq.com 627254325@qq.com 454809244@qq.com 927330592@qq.com 729263464@qq.com 812193944@qq.com 303462539@qq.com 350305755@qq.com 609496763@qq.com 40273158@qq.com 977674774@qq.com 515161590@qq.com 495032680@qq.com 414684501@qq.com 443733564@qq.com 867577874@qq.com 343534820@qq.com 497210009@qq.com 466975772@qq.com 465592934@qq.com 592870174@qq.com 362033506@qq.com 616939853@qq.com 364667312@qq.com 529724371@qq.com 515471801@qq.com 441450595@qq.com 444360506@qq.com xingfa@xingfayeya.com cjwlj@21cn.com
+2/11
+toocle01@netsun.com
+chuangling@chuangling.net zjykrc@163.com hahdjx@163.com 5663@sohu.com
+chenql_008@163.com tsmoql@alibaba.com.cn jx@lc-jxgg.com wxweijie@163.com
+jinganmotor@jinganmotor.cn cnjiangtai@126.com ankson@126.com newsinda@yahoo.com jwf110@hotmail.com jsob@jsob.cn
+shfmsr@hotmail.com LYC@hzlasiji.com yawei@xinyajx.com
+zhoulequn@alibaba.com.cn shandongxinghuo@163.com dc571@163.com hongyi211@sina.com bzxianfeng@163.com ykwbq@163.com
+hnzz_hgjx110@163.com zy@zhenasia.com cgzb110@163.com
+manager@hongxinqd.com xsgl2010@yahoo.com.cn chuangyizdh@163.com dsk@cngxj.com
+meiyingmachine@163.com cilijichuang@sina.com sdTS7559@yahoo.com.cn info@qdhuari.com.cn yh123@vip.163.com hrc@china.com
+web@cn-pengwei.com ycdy28@163.com ysfh@ysfh.com
+zhengdongsheng1970@126.com yarkesong@vip.163.com fhjxsbzzc@126.com
+jingchuang@gdjingchuang.com
+3/11
+gyby5911@alibaba.com.cn dgjs0769@126.com hr@bmschina.com
+zhaomingwqw@163.com ruihongfair@163.com bzfangzheng@126.com zsstssjxzzyxgs@3158.com sdzgjx@126.com sale@xinhuajg.com 222@126.com
+ivanoowin@hotmail.com chinawutong@126.com info@hbzrzz.cn
+xyyunshan@163.com saw@cnsaw.com
+zoulin68@hotmail.com cdkj@cj-elec.com
+hellodongchen@hotmail.com chinawutong@126.com yunyuan@163.com
+ourgameren@yahoo.com.cn gsw888@163.com jshsjx@jshs.com.cn chinawutong@126.com cdsongli@126.com zbshenchang@163.com zzjianxing@126.com tjzf@tjzf.com
+4151447@126.com xuxia928@163.com wangqianjuan@163.com qsyj@jjqsyj.cn
+sanjiangjx@alibaba.com.cn mr.zhang.yao@163.com xxtljx@126.com mxjm@mxjm.com bbxindas@sohu.com.cc lvjuntx@qszt.net
+caoyang@pm-china.com wcdb@wcdb.com.cn jh@xichenji.com
+jcmaxgride@21cn.com sale@zjgjcjx.com wangdz01@126.com
+4/11
+xwxs315@163.com zyj8888@163.com hyshelf_ok@126.com
+xiongxin@autobrakes-china.com 948882566@QQ.COM ybopackage_mei@163.com hengxing@188.com chinawutong@126.com kaihuajx@yahoo.cn yf@yfjxzz.cn
+13816589881@126.com ycx358@sina.com hddgsb@hddgsb.com yue248ax@126.com 8930377@cpp114.net wailaan@gz-wailaan.com sznayee@shc021.com bpmouldgs@yahoo.cn 9skybug@163.com andrui110@sina.com zn@wjlljx.com yyuf118@163.com jylshx@163.com runze66@126.com cass@zjcass.com xiao@zldjc.com
+tianyi0205@163.com
+yanghaifeng8245@yahoo.com.cn xjx978@126.com nbdfmy@163.com 1034953236@qq.com YFRC123@TOM.COM web@txtcjsj.com hebeizuanji@163.com root@xsp2.com
+13910101728@139.com hzchuangqili@163.com lqhlq_001@163.com dy@sy-v.com root@xsp2.com jsltszd@163.com
+newsinda@yahoo.com tzcldq@alibaba.com.cn xwdq400@126.com
+zhushaohua806@sohu.com zcyin@163.com
+SUNVAN@ADVANTECH.COM hongqigroup@126.com lyshjttqm@yahoo.cn ystongtai@126.com
+sales@yazhoupumps.com 181888@gmail.com js@zkjq.cn
+www.310487604@qq.com server@cmt365.com
+yangqing_0221@126.com xianglin912@sina.com sales@cnartil.com xf@xf86.com
+lzh666777@sina.com abolan@163.net
+jzssysjzzyxgs@3158.com sales@wiremesh-machine.cn 1305480186@qq.com lc@longchangjx.com cycle168@yahoo.cn 275464647@qq.com info@btc888.com
+webmaster@sh-fhdp.com love2230050@hotmail.com server@jinxingjd.com wadb258@sohu.com 
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NXHP8V"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NXHP8V');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript">
+if (typeof $.smartbanner == 'function') { $(function() { $.smartbanner({ title: 'HowStuffWorks App', author: 'HowStuffWorks.com', icon: 'http://s.hswstatic.com/en-us/skins/homepage/hsw-ad-logo.png', layer: true, scale: 1, daysHidden: 15, daysReminder: 15, }) } ) }
+</script>
+(010)124-5674
+101-212-3245
+</div>   <!-- end of the bodyWrapper class div -->
+	</body>
+</html>
