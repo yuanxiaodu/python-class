@@ -1,0 +1,3 @@
+containerid: 100103type=1&q=#进击的巨人最终季#
+page_type: searchall
+page: 2
