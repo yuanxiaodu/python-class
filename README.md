@@ -2,7 +2,7 @@
 Python language and data science classes for communication studies students
 
 ## 课程大纲
-| 小节 | 主要内容 |
+| 小节&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 主要内容 |
 | :-----| ----|
 | 第一节 | Python基础：Introduction、How to Run Python Code、Basic Python Syntax、Variables & Operators |
 | 第二节 | Python基础：Built-In Scalar Types & Data Structures、Control Flow Statements、Defining Functions、Errors and Exceptions |
