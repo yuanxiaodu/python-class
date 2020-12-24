@@ -27,5 +27,5 @@ for message in messages:
             print('File: ' + attm.filename)
             matches = re.match(r'^(\d{2})[_-](\d+)[_-](.+).ipynb$', attm.filename)
             if matches:
-                attm.save(filepath=f'{matches.group(1)}/作业/{matches.group(1)}_{matches.group(2)}.ipynb', overwrite=True)
+                attm.save(filepath=f'{matches.group(1)}/作业/{matches.group(1)}_{matches.group(2)}.ipynb', overwrite=False)
                 message.mark_as_read()

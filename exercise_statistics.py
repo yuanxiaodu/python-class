@@ -44,7 +44,7 @@ def main():
                 except:
                     print(f'error at {file_path}')
     exercise = exercise.sort_index(key=lambda x: list(map(lambda y: y[-1], x.str.split('_'))), axis=1)
-    exercise.to_excel('成绩.xlsx')
+    exercise.to_excel('作业.xlsx')
 
 
 if __name__ == '__main__':
