@@ -109,9 +109,9 @@ class ProxyMiddleware(DoubanDownloaderMiddleware):
         super(ProxyMiddleware, self).__init__()
 
     def update_proxy_list(self):
-        if len(self.proxy_list) < 100:
+        if len(self.proxy_list) < 50:
             r = requests.get(
-                'http://webapi.http.zhimacangku.com/getip?num=200&type=1&pro=&city=0&yys=0&port=1&pack=131112&ts=0&ys=0&cs=0&lb=1&sb=0&pb=4&mr=1&regions=')
+                'http://webapi.http.zhimacangku.com/getip?num=100&type=1&pro=&city=0&yys=0&port=1&pack=131109&ts=0&ys=0&cs=0&lb=1&sb=0&pb=4&mr=1&regions=')
             if r.status_code == 200:
                 self.proxy_list += r.text.splitlines()
 
@@ -136,10 +136,10 @@ class CookieMiddleware(DoubanDownloaderMiddleware):
         super(CookieMiddleware, self).__init__()
 
     def process_request(self, request, spider):
-        if len(spider.cookies) >= len(spider.accounts):
+        if len(spider.cookies) >= len(spider.accounts) / 2:
             # 更换cookie
             request.cookies = random.choice(spider.cookies)
-        # 为什么这里要返回None，不能返回request？返回request爬虫会直接关闭，无法接续爬，下篇文章中来解释，这里困扰了我半个晚上。
+        # 为什么这里要返回None，不能返回request？返回request爬虫会直接关闭，无法接续爬。
         return None
 
     def process_response(self, request, response, spider):

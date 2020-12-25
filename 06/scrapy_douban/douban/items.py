@@ -2,8 +2,14 @@
 #
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/items.html
+from scrapy.item import Item, Field
 
 
-class MovieCommentItem:
+class MovieCommentItem(Item):
     # define the fields for your item here like:
-    pass
+    name = Field()
+    seen = Field()
+    star = Field()
+    date = Field()
+    votes = Field()
+    text = Field()

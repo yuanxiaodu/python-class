@@ -20,14 +20,21 @@ DOWNLOADER_MIDDLEWARES = {
     'scrapy_fake_useragent.middleware.RetryUserAgentMiddleware': 401,
     # 使用代理或随机暂停二选一
     # 'douban.middlewares.ProxyMiddleware': 750,
-    'douban.middlewares.CookieMiddleware': 700
+    'douban.middlewares.CookieMiddleware': 700,
+    'scrapy_selenium.SeleniumMiddleware': 800
 }
-
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-# USER_AGENT = 'douban (+http://www.yourdomain.com)'
+# USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
+
+# integration with Selenium
+SELENIUM_DRIVER_NAME = 'chrome'
+SELENIUM_DRIVER_EXECUTABLE_PATH = "/Users/Craftsman/chromedriver"
+# SELENIUM_DRIVER_ARGUMENTS = ['-headless']
+SELENIUM_DRIVER_ARGUMENTS = []
+
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 # CONCURRENT_REQUESTS = 32
@@ -72,9 +79,9 @@ DOWNLOAD_DELAY = 5
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-# ITEM_PIPELINES = {
-#    'douban.pipelines.DoubanPipeline': 300,
-# }
+ITEM_PIPELINES = {
+   'douban.pipelines.MovieCommentPipeline': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
